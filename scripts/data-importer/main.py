@@ -41,16 +41,41 @@ def extract_chords(text):
     return text
 
 
+def extract_pageref(text):
+    result = []
+    while text:
+        index = text.find("-")
+        book = text[0:index+1].strip("-")
+        text = text[index+1:] if index > -1 else ""
+        pages = []
+        while True:
+            full, page = re.match("(([^,.+]*)[,.+]*)", text).groups()
+            if page:
+                pages.append(page)
+            text = text[len(full):]
+            if not len(text) or not text[0].isdigit():
+                break
+        if pages:
+            book = book.strip()
+            if book == "C" or book.startswith("G"):
+                book = "G"
+            if book == "Cs":
+                book = "Cs1"
+            result.append([book, pages])
+    return result
+
+
 def convert_to_json_data(data):
     """Convert list of strings to json format"""
     if next(data) != ['Dal neve', 'Előadó', 'Könyv', 'Akkord', 'Akkord száma']:
         raise ValueError("Check input. Might be broken.")
-    for title, performer, pages, chords, _ in data:
+    for title, performer, pageref, chords, _ in data:
         chords = [i for i in extract_chords(chords) if i]
+        pageref = extract_pageref(pageref)
         yield dict(
             title=title,
             performer=performer,
-            pages=pages,
+            pages=pageref,
             chords=chords,
         )
 
