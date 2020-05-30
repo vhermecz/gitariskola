@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gitariskola/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gitariskola/static/js/main.ef05049b.chunk.js",
+    "main.js.map": "/gitariskola/static/js/main.ef05049b.chunk.js.map",
+    "runtime-main.js": "/gitariskola/static/js/runtime-main.a2ad7990.js",
+    "runtime-main.js.map": "/gitariskola/static/js/runtime-main.a2ad7990.js.map",
+    "static/js/2.55f085d5.chunk.js": "/gitariskola/static/js/2.55f085d5.chunk.js",
+    "static/js/2.55f085d5.chunk.js.map": "/gitariskola/static/js/2.55f085d5.chunk.js.map",
+    "index.html": "/gitariskola/index.html",
+    "precache-manifest.e7c7729c862b559528ce4b4d092abe9c.js": "/gitariskola/precache-manifest.e7c7729c862b559528ce4b4d092abe9c.js",
+    "service-worker.js": "/gitariskola/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gitariskola/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.55f085d5.chunk.js.LICENSE.txt": "/gitariskola/static/js/2.55f085d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2ad7990.js",
+    "static/js/2.55f085d5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ef05049b.chunk.js"
+  ]
+}
