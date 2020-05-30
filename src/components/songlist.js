@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {
+    Chip,
     TableContainer,
     Table,
     TableRow,
@@ -18,6 +19,26 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
+export function PageChip({book, page}) {
+  return (
+    <Chip
+      style={{margin:1}}
+      size="small"
+      color="primary"
+      label={<React.Fragment><b>{book}</b> {page}</React.Fragment>} />
+  )
+}
+
+export function ChordChip({chord}) {
+  return (
+    <Chip
+      style={{margin:1}}
+      size="small"
+      color="primary"
+      label={chord} />
+  )
+}
+
 export function SongList() {
   const classes = useStyles();
   const chords = CHORDINFO;
@@ -35,11 +56,21 @@ export function SongList() {
           </TableHead>
           <TableBody>
             {chords.map(row => (
-              <TableRow key={row.title+row.chords}>
+              <TableRow key={row.idx}>
                 <TableCell component="th" scope="row">{row.title}</TableCell>
                 <TableCell>{row.performer}</TableCell>
-                <TableCell>{row.pages}</TableCell>
-                <TableCell>{row.chords}</TableCell>
+                <TableCell>{
+                  row.pagerefs.map(pageref => 
+                    pageref.pages.map(page => 
+                      <PageChip book={pageref.book} page={page} />
+                    )
+                  )
+                }</TableCell>
+                <TableCell>{
+                  (row.chords[0]||[]).map(chord =>
+                    <ChordChip chord={chord} />
+                  )
+                }</TableCell>
               </TableRow>
             ))}
           </TableBody>
