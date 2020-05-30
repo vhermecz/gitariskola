@@ -11,3 +11,10 @@ services:
     command: bash -c "cd client && yarn install && yarn start"
     environment:
       - NODE_ENV=development
+services:
+  python:
+    image: python:3.8.3
+    restart: always
+    volumes:
+      - .:/client
+    command: bash -c "sleep 99999d"
