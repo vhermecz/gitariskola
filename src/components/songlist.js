@@ -7,6 +7,7 @@ import {
     TableHead,
     TableCell,
     TableBody,
+    TextField,
     Paper
 } from "@material-ui/core";
 import {makeStyles} from "@material-ui/core/styles";
@@ -39,11 +40,27 @@ export function ChordChip({chord}) {
   )
 }
 
+function filterByText(songs, filterText) {
+  if (!filterText) {
+    return songs;
+  }
+  const normalizedFilterText = filterText.toLowerCase();
+  return songs.filter(song =>
+    (song.performer||"").toLowerCase().includes(filterText) ||
+    (song.title||"").toLowerCase().includes(filterText)
+  )
+}
+
 export function SongList() {
   const classes = useStyles();
-  const chords = CHORDINFO;
+  const [textFilter, setTextFilter] = useState("");
+  const songs = filterByText(CHORDINFO, textFilter);
   return (
     <div className={classes.content}>
+      <TextField
+        label="Előadó/cím"
+        value={textFilter}
+        onChange={(event) => setTextFilter(event.target.value)}/>
       <TableContainer component={Paper}>
         <Table size="small" aria-label="running">
           <TableHead>
@@ -55,7 +72,7 @@ export function SongList() {
             </TableRow>
           </TableHead>
           <TableBody>
-            {chords.map(row => (
+            {songs.map(row => (
               <TableRow key={row.idx}>
                 <TableCell component="th" scope="row">{row.title}</TableCell>
                 <TableCell>{row.performer}</TableCell>
