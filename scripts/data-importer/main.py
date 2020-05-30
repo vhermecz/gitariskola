@@ -91,7 +91,7 @@ def main():
     data = download_data(DATA_URL)
     data = extract_from_excel_blob(data)
     data = convert_to_json_data(data)
-    export_json(data, "../../chordinfo.js")
+    export_json(data, "../../src/config/chordinfo.js")
 
 
 if __name__ == "__main__":

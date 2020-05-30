@@ -17,4 +17,4 @@ services:
     restart: always
     volumes:
       - .:/client
-    command: bash -c "sleep 99999d"
+    command: bash -c "cd client/scripts/data-importer && pip install -r requirements.txt && python main.py"
