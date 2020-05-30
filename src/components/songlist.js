@@ -73,12 +73,30 @@ function getUniqBooks(songs) {
   return booksUniq;
 }
 
+function filterByChords(songs, chordsFilter) {
+  if (!chordsFilter.length) {
+    return songs;
+  }
+  return songs.filter(song =>
+    lodash.flattenDeep(song.chords).filter(chord => chordsFilter.includes(chord)).length == chordsFilter.length
+  )
+}
+
+function getUniqChords(songs) {
+  const chords = lodash.flattenDeep(songs.map(song => song.chords));
+  const chordsUniq = lodash.uniq(chords);
+  chordsUniq.sort();
+  return chordsUniq;
+}
+
 export function SongList() {
   const classes = useStyles();
   const [textFilter, setTextFilter] = useState("");
   const [booksFilter, setBooksFilter] = useState([]);
+  const [chordsFilter, setChordsFilter] = useState([]);
   const uniqBooks = getUniqBooks(CHORDINFO);
-  const songs = filterByBook(filterByText(CHORDINFO, textFilter), booksFilter);
+  const uniqChords = getUniqChords(CHORDINFO);
+  const songs = filterByChords(filterByBook(filterByText(CHORDINFO, textFilter), booksFilter), chordsFilter);
   return (
     <div className={classes.content}>
       <TextField
@@ -100,7 +118,23 @@ export function SongList() {
             label="Könyvek"
           />
         )}
-      />        
+      />
+      <Autocomplete
+        multiple
+        options={uniqChords}
+        style={{ width: 200 }}
+        getOptionLabel={(option) => option}
+        value={chordsFilter}
+        onChange={(event,value,c) => setChordsFilter(value)}
+        filterSelectedOptions
+        renderInput={(params) => (
+          <TextField
+            {...params}
+            variant="outlined"
+            label="Akkordok"
+          />
+        )}
+      />      
       <TableContainer component={Paper}>
         <Table size="small" aria-label="running">
           <TableHead>
