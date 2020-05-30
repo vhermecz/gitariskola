@@ -51,7 +51,7 @@ def extract_pageref(text):
         while True:
             full, page = re.match("(([^,.+]*)[,.+]*)", text).groups()
             if page:
-                pages.append(page)
+                pages.append(page.lstrip("0"))
             text = text[len(full):]
             if not len(text) or not text[0].isdigit():
                 break
@@ -61,7 +61,10 @@ def extract_pageref(text):
                 book = "G"
             if book == "Cs":
                 book = "Cs1"
-            result.append([book, pages])
+            result.append(dict(
+                book=book,
+                pages=pages,
+            ))
     return result
 
 
@@ -69,13 +72,14 @@ def convert_to_json_data(data):
     """Convert list of strings to json format"""
     if next(data) != ['Dal neve', 'Előadó', 'Könyv', 'Akkord', 'Akkord száma']:
         raise ValueError("Check input. Might be broken.")
-    for title, performer, pageref, chords, _ in data:
+    for idx, (title, performer, pageref, chords, _) in enumerate(data):
         chords = [i for i in extract_chords(chords) if i]
         pageref = extract_pageref(pageref)
         yield dict(
+            idx=idx,
             title=title,
             performer=performer,
-            pages=pageref,
+            pagerefs=pageref,
             chords=chords,
         )
 

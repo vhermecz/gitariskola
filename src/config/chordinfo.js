@@ -9,13 +9,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "012"
+        "idx": 0,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "12"
                 ]
-            ]
+            }
         ],
         "performer": "V\u2019Moto-Rock",
         "title": "1001 \u00e9jszaka (V\u2019Moto-Rock)"
@@ -31,13 +32,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 1,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "148"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "16 tonna (Republic)"
@@ -51,13 +53,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 2,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "1990 (Koncz Zsuzsa)"
@@ -72,13 +75,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "041"
+        "idx": 3,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "41"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "220 felett (Neoton)"
@@ -92,20 +96,21 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "020"
+        "idx": 4,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "20"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "42",
                     "86"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "67-es \u00faton (Republic)"
@@ -119,19 +124,20 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "091"
+        "idx": 5,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "91"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "46"
                 ]
-            ]
+            }
         ],
         "performer": "Piramis",
         "title": "A becs\u00fclet (Piramis)"
@@ -145,13 +151,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "058"
+        "idx": 6,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "58"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A b\u00f6rt\u00f6n ablak\u00e1ba"
@@ -166,7 +173,8 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [],
+        "idx": 7,
+        "pagerefs": [],
         "performer": "",
         "title": "A bund\u00e1nak nincs gall\u00e9rja "
     },
@@ -179,19 +187,20 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "045"
+        "idx": 8,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "45"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "120"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A csik\u00f3sok, a guly\u00e1sok"
@@ -206,13 +215,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "044"
+        "idx": 9,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "44"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A csit\u00e1ri hegyek alatt "
@@ -228,13 +238,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "055"
+        "idx": 10,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "55"
                 ]
-            ]
+            }
         ],
         "performer": "Kor\u00e1l",
         "title": "A cs\u00f6nd \u00e9ve (Kor\u00e1l)"
@@ -248,13 +259,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "015"
+        "idx": 11,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "15"
                 ]
-            ]
+            }
         ],
         "performer": "Skorpi\u00f3",
         "title": "A d\u00e9dap\u00e1m (Skorpi\u00f3)"
@@ -269,20 +281,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "066"
+        "idx": 12,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "66"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "59",
                     "85"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A felkel\u0151 nap h\u00e1za"
@@ -298,13 +311,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "063"
+        "idx": 13,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "63"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A felszabadul\u00e1s dala (\u00c1prilis n\u00e9gyr\u0151l sz\u00f3ljon \u2026)"
@@ -319,13 +333,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 14,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "156"
                 ]
-            ]
+            }
         ],
         "performer": "De\u00e1k Bill ",
         "title": "A felszarvazottak ballad\u00e1ja (De\u00e1k Bill )"
@@ -340,13 +355,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "046"
+        "idx": 15,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A f\u00fcredi Anna-b\u00e1lon"
@@ -362,13 +378,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 16,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "62"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "A Hard Day\u2019s Night (The Beatles)"
@@ -385,13 +402,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 17,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "127"
                 ]
-            ]
+            }
         ],
         "performer": "Expressz egy\u00fcttes",
         "title": "A harmonik\u00e1s (Expressz egy\u00fcttes)"
@@ -405,13 +423,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "014"
+        "idx": 18,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "14"
                 ]
-            ]
+            }
         ],
         "performer": "Seb\u0151 Ferenc",
         "title": "A hetedik (Seb\u0151 Ferenc)"
@@ -427,13 +446,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "044"
+        "idx": 19,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "44"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A horgosi cs\u00e1rda"
@@ -449,13 +469,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "008"
+        "idx": 20,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "8"
                 ]
-            ]
+            }
         ],
         "performer": "Edda",
         "title": "A h\u0171tlen (Edda)"
@@ -470,13 +491,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "050"
+        "idx": 21,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A j\u00e1nyok, a j\u00e1nyok, a j\u00e1nyok angyalok"
@@ -490,13 +512,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "045"
+        "idx": 22,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "45"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A juh\u00e1sznak j\u00f3l van dolga"
@@ -510,14 +533,15 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 23,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "106",
                     "114"
                 ]
-            ]
+            }
         ],
         "performer": "trad",
         "title": "A juh\u00e1sznak j\u00f3l van dolga (trad)"
@@ -530,13 +554,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "060"
+        "idx": 24,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "60"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "A K\u00e1rp\u00e1thy\u00e9k l\u00e1nya (Koncz Zsuzsa)"
@@ -549,13 +574,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "037"
+        "idx": 25,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "37"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A k\u00e9t kakas (Ha a v\u00f6r\u00f6s kakas ki\u00e1lt\u2026)"
@@ -570,13 +596,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "009"
+        "idx": 26,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "9"
                 ]
-            ]
+            }
         ],
         "performer": "Edda",
         "title": "A k\u00f6r (Edda)"
@@ -592,20 +619,21 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "012"
+        "idx": 27,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "12"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "38",
                     "103"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "A kugli (Ill\u00e9s)"
@@ -621,13 +649,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 28,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "135"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "A l\u00e1ny \u00e9s a csavarg\u00f3 (Br\u00f3dy J\u00e1nos)"
@@ -644,13 +673,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 29,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "131"
                 ]
-            ]
+            }
         ],
         "performer": "Apostol",
         "title": "A legt\u00f6bb ember ott hib\u00e1zza el (Apostol)"
@@ -665,13 +695,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "072"
+        "idx": 30,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "72"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "A Luca bab\u00e1m (Hal\u00e1sz Jutka)"
@@ -688,13 +719,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "041"
+        "idx": 31,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "41"
                 ]
-            ]
+            }
         ],
         "performer": "Z\u00e1ray\u2013V\u00e1mosi",
         "title": "A mi utc\u00e1nk (\u2026\u00f3, be sz\u00e9p) (Z\u00e1ray\u2013V\u00e1mosi)"
@@ -709,13 +741,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "036"
+        "idx": 32,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "36"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9p gyermekem j\u00f6jj ki a\u2026",
         "title": "A munka dics\u00e9rete (Sz\u00e9p gyermekem j\u00f6jj ki a\u2026)"
@@ -734,13 +767,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 33,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "177"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A nagy ho-ho-horg\u00e1sz"
@@ -753,13 +787,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 34,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "178"
                 ]
-            ]
+            }
         ],
         "performer": "altat\u00f3",
         "title": "A nap nyugodni t\u00e9r (altat\u00f3)"
@@ -775,13 +810,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "070"
+        "idx": 35,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "70"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "A napsug\u00e1r (Hal\u00e1sz Jutka)"
@@ -795,13 +831,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "093"
+        "idx": 36,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "93"
                 ]
-            ]
+            }
         ],
         "performer": "L\u2019art pour l\u2019art",
         "title": "A ny\u00e1lon l\u0151tt l\u00e1ny ballad\u00e1ja(L\u2019art pour l\u2019art)"
@@ -818,13 +855,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "083"
+        "idx": 37,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "83"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A pancsol\u00f3 kisl\u00e1ny (A pancsol\u00f3 kisgyerek)"
@@ -839,13 +877,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "013"
+        "idx": 38,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "13"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A p\u00e1rttal, a n\u00e9ppel (\u2026egy az utunk)"
@@ -860,13 +899,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "052"
+        "idx": 39,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "52"
                 ]
-            ]
+            }
         ],
         "performer": "v\u00e9gighajtani a Stef\u00e1ni\u00e1n",
         "title": "A r\u00e9gi m\u00e1ni\u00e1m (\u2026v\u00e9gighajtani a Stef\u00e1ni\u00e1n)"
@@ -894,13 +934,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "081"
+        "idx": 40,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "81"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "A szabads\u00e1g v\u00e1dorai (Demj\u00e9n Ferenc)"
@@ -916,13 +957,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "007"
+        "idx": 41,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "7"
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f",
         "title": "A sz\u00e9llel szemben (Fonogr\u00e1f)"
@@ -935,13 +977,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 42,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "114"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "A szerelemnek m\u00falnia kell (Zor\u00e1n)"
@@ -956,13 +999,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "025"
+        "idx": 43,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "25"
                 ]
-            ]
+            }
         ],
         "performer": "Bon-Bon",
         "title": "A szexepilem (Bon-Bon)"
@@ -975,13 +1019,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "011"
+        "idx": 44,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "11"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "A sz\u00f3 vesz\u00e9lyes fegyver (Ill\u00e9s)"
@@ -997,13 +1042,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "034"
+        "idx": 45,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "34"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "A v\u00e1ros f\u00f6l\u00f6tt (Koncz Zsuzsa)"
@@ -1019,13 +1065,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "019"
+        "idx": 46,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "19"
                 ]
-            ]
+            }
         ],
         "performer": "P\u00e1ger Antal",
         "title": "A Villa Negra rom\u00e1nca (P\u00e1ger Antal)"
@@ -1045,13 +1092,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "011"
+        "idx": 47,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "11"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "A World Without Love"
@@ -1070,13 +1118,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "006"
+        "idx": 48,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "6"
                 ]
-            ]
+            }
         ],
         "performer": "Valahol Eur\u00f3p\u00e1ban",
         "title": "A zene az kell (Valahol Eur\u00f3p\u00e1ban)"
@@ -1093,13 +1142,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "086"
+        "idx": 49,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "86"
                 ]
-            ]
+            }
         ],
         "performer": "Gener\u00e1l",
         "title": "A zeneg\u00e9p (Gener\u00e1l)"
@@ -1113,13 +1163,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "093"
+        "idx": 50,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "93"
                 ]
-            ]
+            }
         ],
         "performer": "Pandora\u2019s Box",
         "title": "A z\u00f6ld, a b\u00edbor \u00e9s a fekete (Pandora\u2019s Box)"
@@ -1140,13 +1191,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 51,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "118"
                 ]
-            ]
+            }
         ],
         "performer": "Ne f\u00e9lj\u2013Sz\u00e9csi P\u00e1l",
         "title": "Adagio (Ne f\u00e9lj\u2013Sz\u00e9csi P\u00e1l)"
@@ -1160,13 +1212,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "024"
+        "idx": 52,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "24"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "\u00c1d\u00e1m hol vagy"
@@ -1183,13 +1236,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "029"
+        "idx": 53,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "29"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "Add m\u00e1r Uram az es\u0151t (Kov\u00e1cs Kati)"
@@ -1205,13 +1259,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "018"
+        "idx": 54,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "18"
                 ]
-            ]
+            }
         ],
         "performer": "Bikini",
         "title": "Adj helyet magad mellett (Bikini)"
@@ -1225,20 +1280,21 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 55,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "121"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "40",
                     "88"
                 ]
-            ]
+            }
         ],
         "performer": "KFT",
         "title": "Afrika (KFT)"
@@ -1253,13 +1309,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 56,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "100"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Ahogy lesz, \u00fagy lesz (a j\u00f6v\u0151t nem sejthetem)"
@@ -1276,13 +1333,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "081"
+        "idx": 57,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "81"
                 ]
-            ]
+            }
         ],
         "performer": "Bojtorj\u00e1n",
         "title": "Ahol a lusta foly\u00f3 (Bojtorj\u00e1n)"
@@ -1298,13 +1356,14 @@ export const CHORDINFO = [
                 "Fm6"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "020"
+        "idx": 58,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "20"
                 ]
-            ]
+            }
         ],
         "performer": "Piramis",
         "title": "Aj\u00e1nd\u00e9k (Piramis)"
@@ -1319,13 +1378,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 59,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "124"
                 ]
-            ]
+            }
         ],
         "performer": "Quimby",
         "title": "Ajjajjaj (Quimby)"
@@ -1336,13 +1396,14 @@ export const CHORDINFO = [
                 "Kvintes d"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 60,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "148-149"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Aki dud\u00e1s akar lenni"
@@ -1356,13 +1417,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "024"
+        "idx": 61,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "24"
                 ]
-            ]
+            }
         ],
         "performer": "Timur Lenk",
         "title": "Alain Delon szeretn\u00e9k lenni (Timur Lenk)"
@@ -1378,13 +1440,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 62,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "106"
                 ]
-            ]
+            }
         ],
         "performer": "Everly Brothers",
         "title": "All I Have To Do Is Dream (Everly Brothers)"
@@ -1400,13 +1463,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 63,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "63"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "All My Loving (The Beatles)"
@@ -1419,13 +1483,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "039"
+        "idx": 64,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "39"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "\u00c1llatkerti \u00fatmutat\u00f3 (Hal\u00e1sz Jutka)"
@@ -1442,13 +1507,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 65,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "131 jobb"
                 ]
-            ]
+            }
         ],
         "performer": "Ih\u00e1sz G\u00e1bor",
         "title": "\u00c1llj meg kisl\u00e1ny (Ih\u00e1sz G\u00e1bor)"
@@ -1465,13 +1531,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "076"
+        "idx": 66,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "76"
                 ]
-            ]
+            }
         ],
         "performer": "Magay Klementina",
         "title": "Alm\u00e1t eszem (Magay Klementina)"
@@ -1486,13 +1553,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "096"
+        "idx": 67,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "96"
                 ]
-            ]
+            }
         ],
         "performer": "Homonyik S\u00e1ndor",
         "title": "\u00c1lmodj kir\u00e1lyl\u00e1ny (Homonyik S\u00e1ndor)"
@@ -1508,13 +1576,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "050"
+        "idx": 68,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "EDDA",
         "title": "\u00c1lmodtam egy vil\u00e1got magamnak (EDDA)"
@@ -1536,13 +1605,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 69,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "134"
                 ]
-            ]
+            }
         ],
         "performer": "LGT",
         "title": "\u00c1lomarc\u00fa l\u00e1ny (LGT)"
@@ -1556,13 +1626,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 70,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "132"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9p csillagos az \u00e9g",
         "title": "Altat\u00f3 (Sz\u00e9p csillagos az \u00e9g)"
@@ -1581,13 +1652,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "086"
+        "idx": 71,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "86"
                 ]
-            ]
+            }
         ],
         "performer": "Elvis",
         "title": "Always On My Mind (Elvis)"
@@ -1601,13 +1673,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "021"
+        "idx": 72,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "21"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Amazing Grace"
@@ -1621,13 +1694,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "030"
+        "idx": 73,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "30"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz",
         "title": "Amikor (\u2026el\u0151sz\u00f6r nevett\u00e9l re\u00e1m) (Koncz)"
@@ -1640,13 +1714,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "088"
+        "idx": 74,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "88"
                 ]
-            ]
+            }
         ],
         "performer": "Cseh Tam\u00e1s",
         "title": "Amikor Desir\u00e9 a munk\u00e1ssz\u00e1ll\u00e1son lakott (Cseh Tam\u00e1s)"
@@ -1667,19 +1742,20 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "078"
+        "idx": 75,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "78"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "61"
                 ]
-            ]
+            }
         ],
         "performer": "LGT",
         "title": "Amikor elment\u00e9l (LGT)"
@@ -1696,13 +1772,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 76,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "120"
                 ]
-            ]
+            }
         ],
         "performer": "Kom\u00e1r",
         "title": "Amikor vir\u00e1gba borultak az almaf\u00e1k (Kom\u00e1r)"
@@ -1717,13 +1794,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 77,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "120"
                 ]
-            ]
+            }
         ],
         "performer": "The Kelly Family",
         "title": "An Angel (The Kelly Family)"
@@ -1738,13 +1816,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "047"
+        "idx": 78,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "47"
                 ]
-            ]
+            }
         ],
         "performer": "Sting",
         "title": "An Englishman In New York (Sting)"
@@ -1760,13 +1839,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 79,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "51"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "And I Love Her (The Beatles)"
@@ -1786,13 +1866,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "084"
+        "idx": 80,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "84"
                 ]
-            ]
+            }
         ],
         "performer": "Cseh Tam\u00e1s-Csinibaba",
         "title": "Angela(Cseh Tam\u00e1s-Csinibaba)"
@@ -1810,13 +1891,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 81,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "160-161"
                 ]
-            ]
+            }
         ],
         "performer": "The Rolling Stones",
         "title": "Angie (The Rolling Stones)"
@@ -1830,13 +1912,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "031"
+        "idx": 82,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "31"
                 ]
-            ]
+            }
         ],
         "performer": "V. Moto-rock",
         "title": "Angyal l\u00e1ny (V. Moto-rock)"
@@ -1854,13 +1937,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "034"
+        "idx": 83,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "34"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Ap\u00e1m hitte (Zor\u00e1n)"
@@ -1874,13 +1958,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "079"
+        "idx": 84,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "79"
                 ]
-            ]
+            }
         ],
         "performer": "Szoszt\u00e1r",
         "title": "Aranyes\u0151 (Szoszt\u00e1r)"
@@ -1897,13 +1982,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 85,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "155"
                 ]
-            ]
+            }
         ],
         "performer": "Elvis",
         "title": "Are You Lonesome Tonight (Elvis)"
@@ -1920,13 +2006,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "013"
+        "idx": 86,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "13"
                 ]
-            ]
+            }
         ],
         "performer": "Dolly Roll",
         "title": "Arrivederci amore (Dolly Roll)"
@@ -1943,13 +2030,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "081"
+        "idx": 87,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "81"
                 ]
-            ]
+            }
         ],
         "performer": "Cserh\u00e1ti Zsuzsa",
         "title": "\u00c1rva fi\u00fa (Cserh\u00e1ti Zsuzsa)"
@@ -1966,13 +2054,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 88,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "166"
                 ]
-            ]
+            }
         ],
         "performer": "The Rolling Stones",
         "title": "As Tears Go By (The Rolling Stones)"
@@ -1988,13 +2077,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 89,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "R\u00e9gi-r\u00e9gi dal",
         "title": "Auld Lang Syne (R\u00e9gi-r\u00e9gi dal)"
@@ -2010,13 +2100,14 @@ export const CHORDINFO = [
                 "Hm4"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 90,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "169"
                 ]
-            ]
+            }
         ],
         "performer": "Quimby",
         "title": "Aut\u00f3 egy szerpentinen (Quimby)"
@@ -2030,13 +2121,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "089"
+        "idx": 91,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "89"
                 ]
-            ]
+            }
         ],
         "performer": "rumbala, rumbala\u2026",
         "title": "Ay Cubano (\u2026rumbala, rumbala\u2026)"
@@ -2051,13 +2143,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "059"
+        "idx": 92,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "59"
                 ]
-            ]
+            }
         ],
         "performer": "Kulka",
         "title": "Az alvil\u00e1gnak nincs romantik\u00e1ja (Kulka)"
@@ -2072,13 +2165,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "028"
+        "idx": 93,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "28"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Az am\u00fari partiz\u00e1nok"
@@ -2093,13 +2187,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 94,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "173"
                 ]
-            ]
+            }
         ],
         "performer": "trad",
         "title": "Az \u00e1rgy\u00e9lus kismad\u00e1r (trad)"
@@ -2118,13 +2213,14 @@ export const CHORDINFO = [
                 "C0"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "026"
+        "idx": 95,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "26"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Az els\u0151 szerelem (M\u00e1t\u00e9 P\u00e9ter)"
@@ -2140,20 +2236,21 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "031"
+        "idx": 96,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "31"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "75",
                     "117   "
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f \u2013 Tolcsvay L\u00e1szl\u00f3",
         "title": "Az els\u0151 villamos (Fonogr\u00e1f \u2013 Tolcsvay L\u00e1szl\u00f3)"
@@ -2170,13 +2267,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "098"
+        "idx": 97,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "98"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Az \u00e9sz a fontos (\u2026nem a haj) (Ill\u00e9s)"
@@ -2195,13 +2293,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "032"
+        "idx": 98,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "32"
                 ]
-            ]
+            }
         ],
         "performer": "Horv\u00e1th Charley",
         "title": "Az l\u00e9gy aki vagy (Horv\u00e1th Charley)"
@@ -2216,13 +2315,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 99,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "122"
                 ]
-            ]
+            }
         ],
         "performer": "Roy \u00e9s \u00c1d\u00e1m",
         "title": "Az otthon itt van (Roy \u00e9s \u00c1d\u00e1m)"
@@ -2236,13 +2336,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "025"
+        "idx": 100,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "25"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00f6r\u00e9nyi Levente",
         "title": "Az utaz\u00e1s (Sz\u00f6r\u00e9nyi Levente)"
@@ -2255,20 +2356,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "079"
+        "idx": 101,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "79"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "20",
                     "26"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Az utc\u00e1n (Ill\u00e9s)"
@@ -2285,19 +2387,20 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 102,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "110"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "141"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Az \u00fcnnep (Zor\u00e1n)"
@@ -2320,13 +2423,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "017"
+        "idx": 103,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "17"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Az\u00e9rt vannak a j\u00f3 bar\u00e1tok"
@@ -2340,13 +2444,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "094"
+        "idx": 104,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "94"
                 ]
-            ]
+            }
         ],
         "performer": "Beatrice",
         "title": "Azok a boldog sz\u00e9p napok (Beatrice)"
@@ -2359,13 +2464,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "016"
+        "idx": 105,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "16"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Azt s\u00fagta a sz\u00e9l (M\u00e1t\u00e9 P\u00e9ter)"
@@ -2380,13 +2486,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 106,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "100"
                 ]
-            ]
+            }
         ],
         "performer": "KFT - Bornai",
         "title": "Balatoni ny\u00e1r (KFT - Bornai)"
@@ -2402,13 +2509,14 @@ export const CHORDINFO = [
                 "Gm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "022"
+        "idx": 107,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "22"
                 ]
-            ]
+            }
         ],
         "performer": "R-GO",
         "title": "Ballag a katona (R-GO)"
@@ -2421,13 +2529,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "037"
+        "idx": 108,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "37"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Ballag m\u00e1r a v\u00e9n di\u00e1k"
@@ -2439,13 +2548,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 109,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "150"
                 ]
-            ]
+            }
         ],
         "performer": "Harry Belafonte",
         "title": "Banana Boat Song (Harry Belafonte)"
@@ -2459,13 +2569,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 110,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "110"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "B\u00e1ny\u00e1szhimnusz"
@@ -2480,13 +2591,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "038"
+        "idx": 111,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "38"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Barbara (Koncz Zsuzsa)"
@@ -2499,13 +2611,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "054"
+        "idx": 112,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "Munka had\u00e1nak a l\u00e9p\u00e9se dobog",
         "title": "B\u00e9csi munk\u00e1sindul\u00f3 (Munka had\u00e1nak a l\u00e9p\u00e9se dobog)"
@@ -2519,13 +2632,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "039"
+        "idx": 113,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "39"
                 ]
-            ]
+            }
         ],
         "performer": "olasz partiz\u00e1ndal",
         "title": "Bella Ciao (olasz partiz\u00e1ndal)"
@@ -2540,13 +2654,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 114,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "116"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "B\u00e9same mucho"
@@ -2565,13 +2680,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 115,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "133"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Betlehemi kir\u00e1lyok (Koncz Zsuzsa)"
@@ -2586,13 +2702,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "077"
+        "idx": 116,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "77"
                 ]
-            ]
+            }
         ],
         "performer": "Los Bravos",
         "title": "Black Is Black (Los Bravos)"
@@ -2606,13 +2723,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 117,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "155"
                 ]
-            ]
+            }
         ],
         "performer": "Bob Dylan",
         "title": "Blowing In The Wind (Bob Dylan)"
@@ -2626,13 +2744,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "052"
+        "idx": 118,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "52"
                 ]
-            ]
+            }
         ],
         "performer": "Carl Perkins-Elvis Presley",
         "title": "Blue Suede Shoes (Carl Perkins-Elvis Presley)"
@@ -2648,13 +2767,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 119,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "155"
                 ]
-            ]
+            }
         ],
         "performer": "Fats Domino",
         "title": "Blueberry Hill (Fats Domino)"
@@ -2670,13 +2790,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 120,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "155"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "B\u00f3bita \u2013 A t\u00fcnd\u00e9r (Hal\u00e1sz Jutka)"
@@ -2695,19 +2816,20 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "068"
+        "idx": 121,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "68"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "30"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka \u2013 Br\u00f3dy",
         "title": "Boldog sz\u00fclet\u00e9snapot (Hal\u00e1sz Jutka \u2013 Br\u00f3dy)"
@@ -2728,13 +2850,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "069"
+        "idx": 122,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "69"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Boldogs\u00e1g gyere haza"
@@ -2751,13 +2874,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 123,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "137"
                 ]
-            ]
+            }
         ],
         "performer": "TNT-Dobr\u00e1dy \u00c1",
         "title": "Bolond, aki s\u00edr (egy l\u00e1ny ut\u00e1n)(TNT-Dobr\u00e1dy \u00c1.)"
@@ -2772,13 +2896,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "049"
+        "idx": 124,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "49"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa - Br\u00f3dy J\u00e1nos",
         "title": "Bord\u00f3di Krist\u00f3f (Koncz Zsuzsa - Br\u00f3dy J\u00e1nos)"
@@ -2796,13 +2921,14 @@ export const CHORDINFO = [
                 "Dmaj7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "085"
+        "idx": 125,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "85"
                 ]
-            ]
+            }
         ],
         "performer": "Steppenwolf",
         "title": "Born To Be Wild (Steppenwolf)"
@@ -2816,13 +2942,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 126,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "178"
                 ]
-            ]
+            }
         ],
         "performer": "Gyermekem, \u00f3, aludj m\u00e1r \u2013 J.Bhrams",
         "title": "B\u00f6lcs\u0151dal (Gyermekem, \u00f3, aludj m\u00e1r \u2013 J.Bhrams)"
@@ -2834,13 +2961,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 127,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "137"
                 ]
-            ]
+            }
         ],
         "performer": "Boney M.",
         "title": "Brown Girl In The Ring (Boney M.)"
@@ -2859,13 +2987,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "074"
+        "idx": 128,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "74"
                 ]
-            ]
+            }
         ],
         "performer": "Apostol",
         "title": "B\u00facs\u00fazik a ny\u00e1r (Apostol)"
@@ -2879,19 +3008,20 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "040"
+        "idx": 129,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "40"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "Cseh Tam\u00e1s",
         "title": "Budapest (Cseh Tam\u00e1s)"
@@ -2905,13 +3035,14 @@ export const CHORDINFO = [
                 "C#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "037"
+        "idx": 130,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "37"
                 ]
-            ]
+            }
         ],
         "performer": "Bojtorj\u00e1n",
         "title": "Budapestt\u0151l Miskolcig (Bojtorj\u00e1n)"
@@ -2924,13 +3055,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "085"
+        "idx": 131,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "85"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Bunk\u00f3cska"
@@ -2945,13 +3077,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 132,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "107"
                 ]
-            ]
+            }
         ],
         "performer": "Peter&Gordon \u2013 Simon&Garfunkel",
         "title": "Bye, Bye Love (Peter&Gordon \u2013 Simon&Garfunkel)"
@@ -2967,13 +3100,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "023"
+        "idx": 133,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "23"
                 ]
-            ]
+            }
         ],
         "performer": "Pa-D\u00f6-D\u00f6",
         "title": "Bye, bye Sz\u00e1sa (Pa-D\u00f6-D\u00f6)"
@@ -2990,7 +3124,8 @@ export const CHORDINFO = [
                 "Cmaj7"
             ]
         ],
-        "pages": [],
+        "idx": 134,
+        "pagerefs": [],
         "performer": "Mamas & Papas",
         "title": "California Dreaming (Mamas & Papas)"
     },
@@ -3004,13 +3139,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "037"
+        "idx": 135,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "37"
                 ]
-            ]
+            }
         ],
         "performer": "Ko\u00f3s J\u00e1nos-K\u00e9k csillag egy\u00fcttes",
         "title": "Camping (Ko\u00f3s J\u00e1nos-K\u00e9k csillag egy\u00fcttes)"
@@ -3025,13 +3161,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 136,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "135"
                 ]
-            ]
+            }
         ],
         "performer": "Oroszl\u00e1nkir\u00e1ly",
         "title": "Can You Feel The Love Tonight (Oroszl\u00e1nkir\u00e1ly)"
@@ -3047,13 +3184,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "030"
+        "idx": 137,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "30"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Can\u2019t Buy Me Love (The Beatles)"
@@ -3071,19 +3209,20 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "057"
+        "idx": 138,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "57"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "162"
                 ]
-            ]
+            }
         ],
         "performer": "Elvis - UB40",
         "title": "Can\u2019t Help Falling In Love (Elvis - UB40)"
@@ -3099,13 +3238,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 139,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "114"
                 ]
-            ]
+            }
         ],
         "performer": "Kookie Tian-Sz\u00e9csi P\u00e1l",
         "title": "Carolina (Kookie Tian-Sz\u00e9csi P\u00e1l)"
@@ -3122,13 +3262,14 @@ export const CHORDINFO = [
                 "D4"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 140,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "131"
                 ]
-            ]
+            }
         ],
         "performer": "Europe",
         "title": "Carrie (Europe)"
@@ -3142,13 +3283,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "042"
+        "idx": 141,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "42"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria",
         "title": "Casino twist (Hung\u00e1ria)"
@@ -3163,13 +3305,14 @@ export const CHORDINFO = [
                 "G#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 142,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Chiquitita (ABBA)"
@@ -3182,13 +3325,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 143,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "169"
                 ]
-            ]
+            }
         ],
         "performer": "The Middle Of The Road",
         "title": "Chirpy Chirpy Chip Chip (The Middle Of The Road)"
@@ -3204,13 +3348,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "078"
+        "idx": 144,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "78"
                 ]
-            ]
+            }
         ],
         "performer": "Bajtala testv\u00e9rek",
         "title": "Cig\u00e1nyl\u00e1ny (Bajtala testv\u00e9rek)"
@@ -3228,13 +3373,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "062"
+        "idx": 145,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "62"
                 ]
-            ]
+            }
         ],
         "performer": "Metro",
         "title": "Citrom \u00edz\u0171 ban\u00e1n (Metro)"
@@ -3246,13 +3392,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "079"
+        "idx": 146,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "79"
                 ]
-            ]
+            }
         ],
         "performer": "oh, my darling",
         "title": "Clementine (\u2026oh, my darling)"
@@ -3267,13 +3414,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "036"
+        "idx": 147,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "36"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Commandante Che Guevara"
@@ -3288,13 +3436,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "054"
+        "idx": 148,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "Cliff Richard",
         "title": "Congratulations (Cliff Richard)"
@@ -3307,13 +3456,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "078"
+        "idx": 149,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "78"
                 ]
-            ]
+            }
         ],
         "performer": "Creedence Clearwater Revival",
         "title": "Cotton Fields (Creedence Clearwater Revival)"
@@ -3328,13 +3478,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "027"
+        "idx": 150,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "27"
                 ]
-            ]
+            }
         ],
         "performer": "Tolcsvay testv\u00e9rek",
         "title": "Csak egy k\u00e9k sz\u00edn\u0171 vir\u00e1g (Tolcsvay testv\u00e9rek)"
@@ -3352,13 +3503,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "029"
+        "idx": 151,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "29"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l",
         "title": "Csak egy t\u00e1nc volt (Sz\u00e9csi P\u00e1l)"
@@ -3372,13 +3524,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "062"
+        "idx": 152,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "62"
                 ]
-            ]
+            }
         ],
         "performer": "Baksa So\u00f3s J\u00e1nos-Kex",
         "title": "Csal\u00e1d (Baksa So\u00f3s J\u00e1nos-Kex)"
@@ -3394,13 +3547,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 153,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "130 bal"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria",
         "title": "Csavard fel a sz\u0151nyeget (Hung\u00e1ria)"
@@ -3415,13 +3569,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "037"
+        "idx": 154,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "37"
                 ]
-            ]
+            }
         ],
         "performer": "Bojtorj\u00e1n",
         "title": "Csavarg\u00f3dal (Bojtorj\u00e1n)"
@@ -3435,13 +3590,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "045"
+        "idx": 155,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "45"
                 ]
-            ]
+            }
         ],
         "performer": "Stille Nacht",
         "title": "Csendes \u00e9j (Stille Nacht)"
@@ -3455,13 +3611,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 156,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "81"
                 ]
-            ]
+            }
         ],
         "performer": "Stille Nacht",
         "title": "Csendes \u00e9j (Stille Nacht)"
@@ -3476,13 +3633,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 157,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "144"
                 ]
-            ]
+            }
         ],
         "performer": "n\u00e9pdal",
         "title": "Csillagok, csillagok (n\u00e9pdal)"
@@ -3496,13 +3654,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "008"
+        "idx": 158,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "8"
                 ]
-            ]
+            }
         ],
         "performer": "Csinibaba",
         "title": "Csinibaba (Csinibaba)"
@@ -3517,13 +3676,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 159,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "104"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Cs\u00ednom Palk\u00f3, Cs\u00ednom Jank\u00f3"
@@ -3536,13 +3696,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 160,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "146"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "Csiribiri, csiribiri (Hal\u00e1sz Jutka) "
@@ -3555,13 +3716,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 161,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "26"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "Csiribiri, csiribiri (Hal\u00e1sz Jutka) "
@@ -3578,13 +3740,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 162,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "104"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Csod\u00e1latos vil\u00e1g (Koncz Zsuzsa)"
@@ -3597,13 +3760,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 163,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "142"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria egy\u00fcttes",
         "title": "Cs\u00f3kkir\u00e1ly (Hung\u00e1ria egy\u00fcttes)"
@@ -3617,13 +3781,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 164,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "117"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Csokko-Csokol\u00e1d\u00e9"
@@ -3640,13 +3805,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 165,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "112"
                 ]
-            ]
+            }
         ],
         "performer": "hozz\u00e1m",
         "title": "Cs\u00f6ngess be (hozz\u00e1m) j\u00f3bar\u00e1t (Gener\u00e1l)"
@@ -3661,13 +3827,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 166,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "111"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "Csud\u00e1latos Mary (Hal\u00e1sz Jutka)"
@@ -3686,13 +3853,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "092"
+        "idx": 167,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "92"
                 ]
-            ]
+            }
         ],
         "performer": "Pajt\u00e1s, daloljunk sz\u00e9p \u2026",
         "title": "Dal a haz\u00e1r\u00f3l (Pajt\u00e1s, daloljunk sz\u00e9p \u2026)"
@@ -3706,13 +3874,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "086"
+        "idx": 168,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "86"
                 ]
-            ]
+            }
         ],
         "performer": "Cseh Tam\u00e1s",
         "title": "Dal ravaszdi Shakespeare William-r\u0151l (Cseh Tam\u00e1s)"
@@ -3730,13 +3899,14 @@ export const CHORDINFO = [
                 "D4"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "070"
+        "idx": 169,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "70"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Dancing Queen(ABBA)"
@@ -3752,19 +3922,20 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "042"
+        "idx": 170,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "42"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "61"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy \u2013 Demj\u00e9n",
         "title": "Darabokra t\u00f6rted a sz\u00edvem (Bergendy \u2013 Demj\u00e9n)"
@@ -3781,13 +3952,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "049"
+        "idx": 171,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "49"
                 ]
-            ]
+            }
         ],
         "performer": "magyarn\u00f3ta",
         "title": "Darumad\u00e1r fenn az \u00e9gen (magyarn\u00f3ta)"
@@ -3806,13 +3978,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "048"
+        "idx": 172,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "48"
                 ]
-            ]
+            }
         ],
         "performer": "magyarn\u00f3ta",
         "title": "Deres m\u00e1r a hat\u00e1r (magyarn\u00f3ta)"
@@ -3827,13 +4000,14 @@ export const CHORDINFO = [
                 "Cm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 173,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "102"
                 ]
-            ]
+            }
         ],
         "performer": "Paul Anka",
         "title": "Diana (Paul Anka)"
@@ -3847,13 +4021,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "042"
+        "idx": 174,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "42"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Dics\u0151s\u00e9g mennyben az Istennek"
@@ -3867,13 +4042,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "084"
+        "idx": 175,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "84"
                 ]
-            ]
+            }
         ],
         "performer": "Manfred Mann",
         "title": "Do Wah Diddy (Manfred Mann)"
@@ -3887,13 +4063,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "023"
+        "idx": 176,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "23"
                 ]
-            ]
+            }
         ],
         "performer": "The Contours",
         "title": "Do You Love Me (The Contours)"
@@ -3907,13 +4084,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "011"
+        "idx": 177,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "11"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Doktor Bub\u00f3"
@@ -3928,13 +4106,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 178,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "122"
                 ]
-            ]
+            }
         ],
         "performer": "Cs\u00e1k\u00e1nyi L\u00e1szl\u00f3",
         "title": "Doktor \u00far (a maga sz\u00edve sose f\u00e1j?) (Cs\u00e1k\u00e1nyi L\u00e1szl\u00f3)"
@@ -3950,13 +4129,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 179,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "141"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton Familia",
         "title": "Don Quijote (Neoton Familia)"
@@ -3972,13 +4152,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 180,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "144"
                 ]
-            ]
+            }
         ],
         "performer": "Guns N\u2019 Roses",
         "title": "Don\u2019t Cry (Guns N\u2019 Roses)"
@@ -3993,13 +4174,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "045"
+        "idx": 181,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "45"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Dona, dona"
@@ -4014,13 +4196,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 182,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "104"
                 ]
-            ]
+            }
         ],
         "performer": "spiritu\u00e1l\u00e9",
         "title": "Down By The Riverside (spiritu\u00e1l\u00e9)"
@@ -4037,13 +4220,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 183,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "154"
                 ]
-            ]
+            }
         ],
         "performer": "Petula Clark",
         "title": "Downtown (Petula Clark)"
@@ -4061,13 +4245,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "095"
+        "idx": 184,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "95"
                 ]
-            ]
+            }
         ],
         "performer": "sz\u00fcl\u0151haz\u00e1nknak f\u00f6ldje",
         "title": "Dr\u00e1ga f\u00f6ld (\u2026sz\u00fcl\u0151haz\u00e1nknak f\u00f6ldje)"
@@ -4090,13 +4275,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "017"
+        "idx": 185,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "17"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Dream A Little Dream Of Me"
@@ -4113,19 +4299,20 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "060"
+        "idx": 186,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "60"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "-30"
                 ]
-            ]
+            }
         ],
         "performer": "R\u00e9szeg tenger\u00e9sz - sk\u00f3t tenger\u00e9szdal",
         "title": "Drunken Sailor (R\u00e9szeg tenger\u00e9sz - sk\u00f3t tenger\u00e9szdal)"
@@ -4140,13 +4327,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 187,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "138"
                 ]
-            ]
+            }
         ],
         "performer": "Cs\u00f3kolom, Amorf \u00f6rd\u00f6g\u00f6k",
         "title": "Dun\u00e1nt\u00fali sl\u00e1ger (Cs\u00f3kolom, Amorf \u00f6rd\u00f6g\u00f6k)"
@@ -4162,13 +4350,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "075"
+        "idx": 188,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "75"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Edelweiss (A muzsika hangja c. mozi bet\u00e9tdala)"
@@ -4185,13 +4374,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "053"
+        "idx": 189,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "53"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "\u00c9des \u00e9vek (Zor\u00e1n)"
@@ -4208,13 +4398,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 190,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "129"
                 ]
-            ]
+            }
         ],
         "performer": "Cserh\u00e1ti Zsuzsa",
         "title": "\u00c9des kisfiam \u2013 Soleado (Cserh\u00e1ti Zsuzsa)"
@@ -4231,13 +4422,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "062"
+        "idx": 191,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "62"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "\u00c9g \u00e9s f\u00f6ld k\u00f6z\u00f6tt (Koncz Zsuzsa)"
@@ -4253,13 +4445,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 192,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "175"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Eger v\u00e1rosa, papok v\u00e1rosa"
@@ -4273,13 +4466,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 193,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "113"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Eg\u00e9szen egyszer\u0171 dal (Zor\u00e1n)"
@@ -4295,13 +4489,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "050"
+        "idx": 194,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Egy cs\u00f3k \u00e9s m\u00e1s semmi (\u2026a v\u00e1gyam csak ennyi)"
@@ -4319,13 +4514,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "017"
+        "idx": 195,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "17"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Egy darabot a sz\u00edvemb\u0151l (M\u00e1t\u00e9 P\u00e9ter)"
@@ -4347,13 +4543,14 @@ export const CHORDINFO = [
                 "D4"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "047"
+        "idx": 196,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "47"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Egy dunaparti cs\u00f3nakh\u00e1zban"
@@ -4370,13 +4567,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "009"
+        "idx": 197,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "9"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Egy \u00e9v elm\u00falt (Koncz Zsuzsa)"
@@ -4393,13 +4591,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "025"
+        "idx": 198,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "25"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "Egy hamvas arc\u00fa kisgyerek (Kov\u00e1cs Kati)"
@@ -4414,13 +4613,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 199,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "121"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "Egy h\u00e9tig tart (Br\u00f3dy J\u00e1nos)"
@@ -4435,13 +4635,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 200,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "122"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "Egy h\u00e9tig tart (Br\u00f3dy J\u00e1nos)"
@@ -4458,13 +4659,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "082"
+        "idx": 201,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "82"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Egy kis \u00e9des f\u00e9lhom\u00e1lyban"
@@ -4477,13 +4679,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 202,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "143"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton Familia",
         "title": "Egy kis nyugalmat (Neoton Familia)"
@@ -4501,13 +4704,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 203,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "115"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz",
         "title": "Egy l\u00e1ny s\u00e9t\u00e1l a domboldalon (Koncz)"
@@ -4525,13 +4729,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "038"
+        "idx": 204,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "38"
                 ]
-            ]
+            }
         ],
         "performer": "Tolcsvay L\u00e1szl\u00f3-Br\u00f3dy J\u00e1nos",
         "title": "Egy \u0151szinte dal (Tolcsvay L\u00e1szl\u00f3-Br\u00f3dy J\u00e1nos)"
@@ -4548,13 +4753,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 205,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "127"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l",
         "title": "Egy sz\u00e1l harangvir\u00e1g (Sz\u00e9csi P\u00e1l)"
@@ -4573,7 +4779,8 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [],
+        "idx": 206,
+        "pagerefs": [],
         "performer": "Corvina",
         "title": "Egy viharos \u00e9jszak\u00e1n (Corvina)"
     },
@@ -4586,13 +4793,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "038"
+        "idx": 207,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "38"
                 ]
-            ]
+            }
         ],
         "performer": "Toldy M\u00e1ria",
         "title": "Egy, velem ugye k\u00f6nnyen megy (Toldy M\u00e1ria)"
@@ -4611,13 +4819,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "051"
+        "idx": 208,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "51"
                 ]
-            ]
+            }
         ],
         "performer": "EDDA",
         "title": "Egyed\u00fcl blues (Egyir\u00e1ny\u00fa \u00fat)(EDDA)"
@@ -4632,13 +4841,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "042"
+        "idx": 209,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "42"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Egys\u00e9gbe forraszt a Kisz"
@@ -4653,13 +4863,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 210,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "125"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Egyszer v\u00e9get \u00e9r (a l\u00e1zas ifj\u00fas\u00e1g) \u2013 (M\u00e1t\u00e9 P\u00e9ter)"
@@ -4678,13 +4889,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "042"
+        "idx": 211,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "42"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Egyszer v\u00e9get \u00e9r (az \u00fat) (Neoton)"
@@ -4698,13 +4910,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "039"
+        "idx": 212,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "39"
                 ]
-            ]
+            }
         ],
         "performer": "Tankcsapda",
         "title": "Egyszer\u0171 dal (Tankcsapda)"
@@ -4718,13 +4931,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 213,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "50"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Eight Days A Week (The Beatles)"
@@ -4737,13 +4951,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "074"
+        "idx": 214,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "74"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Ej, haj Bandizs\u00e1r"
@@ -4760,13 +4975,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "047"
+        "idx": 215,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "47"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "\u00c9jjel az omnibusz tetej\u00e9n"
@@ -4782,13 +4998,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "043"
+        "idx": 216,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "43"
                 ]
-            ]
+            }
         ],
         "performer": "Kal\u00e1ka",
         "title": "\u00c9jszaka (Kal\u00e1ka)"
@@ -4806,13 +5023,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "033"
+        "idx": 217,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "33"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "\u00c9jszak\u00e1k \u00e9s nappalok (M\u00e1t\u00e9 P\u00e9ter)"
@@ -4826,13 +5044,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "071"
+        "idx": 218,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "71"
                 ]
-            ]
+            }
         ],
         "performer": "Simon&Garfunkel",
         "title": "El Condor Pasa (Simon&Garfunkel)"
@@ -4852,13 +5071,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "070"
+        "idx": 219,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "70"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "El kell, hogy engedj (Demj\u00e9n Ferenc)"
@@ -4876,13 +5096,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 220,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "123"
                 ]
-            ]
+            }
         ],
         "performer": "Apostol",
         "title": "Elad\u00f3, kiad\u00f3 most a sz\u00edvem (Apostol)"
@@ -4898,13 +5119,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "032"
+        "idx": 221,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "32"
                 ]
-            ]
+            }
         ],
         "performer": "Edda",
         "title": "Elhagyom a v\u00e1rost (Edda)"
@@ -4918,13 +5140,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 222,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "107"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Elindultam sz\u00e9p haz\u00e1mb\u00f3l"
@@ -4939,13 +5162,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 223,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "120"
                 ]
-            ]
+            }
         ],
         "performer": "KFT",
         "title": "Elizabet (KFT)"
@@ -4962,13 +5186,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "021"
+        "idx": 224,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "21"
                 ]
-            ]
+            }
         ],
         "performer": "Csinibaba",
         "title": "\u00c9lj vele boldogan (\u00e1ld\u00e1som r\u00e1d) (Csinibaba)"
@@ -4985,13 +5210,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "072"
+        "idx": 225,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "72"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Elmegyek (M\u00e1t\u00e9 P\u00e9ter)"
@@ -5006,13 +5232,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "030"
+        "idx": 226,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "30"
                 ]
-            ]
+            }
         ],
         "performer": "n\u00e9pdal",
         "title": "Elmegyek, elmegyek (n\u00e9pdal)"
@@ -5031,13 +5258,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 227,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "141"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Elment a k\u00e9t l\u00e1ny vir\u00e1got szedni"
@@ -5058,13 +5286,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 228,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "113"
                 ]
-            ]
+            }
         ],
         "performer": "Ih\u00e1sz G\u00e1bor",
         "title": "Elsz\u00e1ll a gondom (Ih\u00e1sz G\u00e1bor)"
@@ -5080,13 +5309,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "067"
+        "idx": 229,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "67"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Elsz\u00e1llt a ny\u00e1r (Koncz Zsuzsa)"
@@ -5101,13 +5331,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 230,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "125"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s egy\u00fcttes",
         "title": "\u00c9l\u00fcnk \u00e9s meghalunk (Ill\u00e9s egy\u00fcttes)"
@@ -5124,13 +5355,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "033"
+        "idx": 231,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "33"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Elvonult a vihar (Ill\u00e9s)"
@@ -5146,13 +5378,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "053"
+        "idx": 232,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "53"
                 ]
-            ]
+            }
         ],
         "performer": "Gergely R\u00f3bert",
         "title": "Emmanuelle(Gergely R\u00f3bert)"
@@ -5166,13 +5399,14 @@ export const CHORDINFO = [
                 "D am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "020"
+        "idx": 233,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "20"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "\u00c9n csak f\u00fajom a dalt (Demj\u00e9n Ferenc)"
@@ -5185,13 +5419,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "092"
+        "idx": 234,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "92"
                 ]
-            ]
+            }
         ],
         "performer": "Vas Zolt\u00e1n",
         "title": "\u00c9n csak ki\u00e1llok a placcra (Vas Zolt\u00e1n)"
@@ -5207,13 +5442,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "051"
+        "idx": 235,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "51"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "\u00c9n \u00e9des Katink\u00e1m"
@@ -5229,13 +5465,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "090"
+        "idx": 236,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "90"
                 ]
-            ]
+            }
         ],
         "performer": "J\u00e9zus Krisztus Szuperszt\u00e1r",
         "title": "\u00c9n hogy szeressem \u0151t (J\u00e9zus Krisztus Szuperszt\u00e1r)"
@@ -5250,13 +5487,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "054"
+        "idx": 237,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "\u00c9n mindenkiben csal\u00f3dtam "
@@ -5271,13 +5509,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "054"
+        "idx": 238,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "Psota",
         "title": "\u00c9n nem akarok minden\u00e1ron f\u00e9rjhez menni (Psota)"
@@ -5293,13 +5532,14 @@ export const CHORDINFO = [
                 "C0"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "066"
+        "idx": 239,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "66"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "\u00c9n nem tudtam azt k\u00e9rem (Koncz Zsuzsa)"
@@ -5314,13 +5554,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 240,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "143"
                 ]
-            ]
+            }
         ],
         "performer": "Cs\u00edk zenekar",
         "title": "\u00c9n vagyok az, aki nem j\u00f3 (Cs\u00edk zenekar)"
@@ -5334,13 +5575,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "016"
+        "idx": 241,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "16"
                 ]
-            ]
+            }
         ],
         "performer": "Bojtorj\u00e1n",
         "title": "\u00c9nekelsz egy r\u00e9gi n\u00f3t\u00e1t (Bojtorj\u00e1n)"
@@ -5356,13 +5598,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 242,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "149"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Engedj k\u00f6zelebb (Republic)"
@@ -5388,13 +5631,14 @@ export const CHORDINFO = [
                 "Ab"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "039"
+        "idx": 243,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "39"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Engem nem lehet elfelejteni"
@@ -5413,13 +5657,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "076"
+        "idx": 244,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "76"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "\u00c9nmellettem elaludni nem lehet"
@@ -5439,13 +5684,14 @@ export const CHORDINFO = [
                 "D#"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "072"
+        "idx": 245,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "72"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Eperfagyi"
@@ -5459,13 +5705,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 246,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "113"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Erd\u0151 k\u00f6zep\u00e9ben (Republic)"
@@ -5481,13 +5728,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "050"
+        "idx": 247,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Erd\u0151sz\u00e9len nagy a zsivaj l\u00e1rma"
@@ -5504,13 +5752,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "048"
+        "idx": 248,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "48"
                 ]
-            ]
+            }
         ],
         "performer": "Bal\u00e1zs Fec\u00f3",
         "title": "\u00c9rints meg (Bal\u00e1zs Fec\u00f3)"
@@ -5530,13 +5779,14 @@ export const CHORDINFO = [
                 "Dm7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 249,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "118"
                 ]
-            ]
+            }
         ],
         "performer": "The Bangles",
         "title": "Eternal Flame (The Bangles)"
@@ -5551,13 +5801,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "055"
+        "idx": 250,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "55"
                 ]
-            ]
+            }
         ],
         "performer": "Varga Mikl\u00f3s",
         "title": "Eur\u00f3pa (Varga Mikl\u00f3s)"
@@ -5572,13 +5823,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 251,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "124"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s egy\u00fcttes",
         "title": "Eur\u00f3pa csendes (Ill\u00e9s egy\u00fcttes)"
@@ -5591,13 +5843,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 252,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "172"
                 ]
-            ]
+            }
         ],
         "performer": "trad",
         "title": "\u00c9va, sz\u00edvem \u00c9va (trad)"
@@ -5615,13 +5868,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "046"
+        "idx": 253,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "Sting",
         "title": "Every Breath You Take (Sting)"
@@ -5638,13 +5892,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "006"
+        "idx": 254,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "6"
                 ]
-            ]
+            }
         ],
         "performer": "R.E.M.",
         "title": "Everybody Hurts (R.E.M.)"
@@ -5662,13 +5917,14 @@ export const CHORDINFO = [
                 "Gm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 255,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "122"
                 ]
-            ]
+            }
         ],
         "performer": "Bryan Adams",
         "title": "Everything I Do (Bryan Adams)"
@@ -5687,13 +5943,14 @@ export const CHORDINFO = [
                 "C0"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "073"
+        "idx": 256,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "73"
                 ]
-            ]
+            }
         ],
         "performer": "Bal\u00e1zs Fec\u00f3",
         "title": "\u00c9vszakok (Bal\u00e1zs Fec\u00f3)"
@@ -5708,7 +5965,8 @@ export const CHORDINFO = [
                 "D4"
             ]
         ],
-        "pages": [],
+        "idx": 257,
+        "pagerefs": [],
         "performer": "Koncz Zsuzsa",
         "title": "Ez az a h\u00e1z (Koncz Zsuzsa)"
     },
@@ -5721,7 +5979,8 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [],
+        "idx": 258,
+        "pagerefs": [],
         "performer": "Tankcsapda",
         "title": "Ez az a h\u00e1z (Tankcsapda)"
     },
@@ -5736,13 +5995,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "035"
+        "idx": 259,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "35"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Ez majdnem szerelem volt (M\u00e1t\u00e9 P\u00e9ter)"
@@ -5759,13 +6019,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "089"
+        "idx": 260,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "89"
                 ]
-            ]
+            }
         ],
         "performer": "Omega",
         "title": "Ez\u00fcst es\u0151 (Omega)"
@@ -5782,13 +6043,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "006"
+        "idx": 261,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "6"
                 ]
-            ]
+            }
         ],
         "performer": "Pa-D\u00f6-D\u00f6",
         "title": "F\u00e1j a fejem (Pa-D\u00f6-D\u00f6)"
@@ -5802,13 +6064,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 262,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "111"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "F\u00e1j a sz\u00edvem \u00e9rted (Republic)"
@@ -5825,13 +6088,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 263,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     " 108"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "F\u00e1k, vir\u00e1gok, f\u00e9ny (Zalatnay Sarolta)"
@@ -5847,13 +6111,14 @@ export const CHORDINFO = [
                 "Dm7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "085"
+        "idx": 264,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "85"
                 ]
-            ]
+            }
         ],
         "performer": "Ambrus Kyri",
         "title": "Feh\u00e9r h\u00e1zik\u00f3 (Ambrus Kyri)"
@@ -5868,13 +6133,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "054"
+        "idx": 265,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "\u00f6cs\u00e9m\u2026",
         "title": "Fekete P\u00e9ter (\u00f6cs\u00e9m\u2026)"
@@ -5893,13 +6159,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "088"
+        "idx": 266,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "88"
                 ]
-            ]
+            }
         ],
         "performer": "Omega",
         "title": "Fekete pillang\u00f3 (Omega)"
@@ -5914,13 +6181,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "077"
+        "idx": 267,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "77"
                 ]
-            ]
+            }
         ],
         "performer": "Po\u00f3rP\u00e9ter",
         "title": "Fekete vonat (Po\u00f3rP\u00e9ter)"
@@ -5933,13 +6201,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "068"
+        "idx": 268,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "68"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "Fekszem az \u00e1gyon (Demj\u00e9n Ferenc)"
@@ -5953,13 +6222,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "045"
+        "idx": 269,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "45"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "F\u00e9ktelen \u00e9j (Demj\u00e9n Ferenc)"
@@ -5974,13 +6244,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "029"
+        "idx": 270,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "29"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Fel v\u00f6r\u00f6s\u00f6k, prolet\u00e1rok "
@@ -5993,13 +6264,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 271,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Fel, fel vit\u00e9zek a csat\u00e1ra"
@@ -6015,13 +6287,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "095"
+        "idx": 272,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "95"
                 ]
-            ]
+            }
         ],
         "performer": "M7 egy\u00fcttes",
         "title": "F\u00e9lig sem szerelem (M7 egy\u00fcttes)"
@@ -6038,13 +6311,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "042"
+        "idx": 273,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "42"
                 ]
-            ]
+            }
         ],
         "performer": "Istv\u00e1n a kir\u00e1ly",
         "title": "Felkelt a napunk (Istv\u00e1n a kir\u00e1ly)"
@@ -6060,13 +6334,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "098"
+        "idx": 274,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "98"
                 ]
-            ]
+            }
         ],
         "performer": "Color egy\u00fcttes",
         "title": "F\u00e9ltelek (Color egy\u00fcttes)"
@@ -6085,13 +6360,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "074"
+        "idx": 275,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "74"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Fernando (ABBA)"
@@ -6109,19 +6385,20 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "093"
+        "idx": 276,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "93"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "Fill\u00e9res eml\u00e9keim (Br\u00f3dy J\u00e1nos)"
@@ -6137,13 +6414,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "051"
+        "idx": 277,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "51"
                 ]
-            ]
+            }
         ],
         "performer": "Csinibaba",
         "title": "Fogj egy s\u00e9tap\u00e1lc\u00e1t (Csinibaba)"
@@ -6157,7 +6435,8 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [],
+        "idx": 278,
+        "pagerefs": [],
         "performer": "Buffalo Springfield",
         "title": "For What Is Worth (Buffalo Springfield)"
     },
@@ -6170,13 +6449,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 279,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "124"
                 ]
-            ]
+            }
         ],
         "performer": "Alphaville",
         "title": "Forever Young (Alphaville)"
@@ -6194,19 +6474,20 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "067"
+        "idx": 280,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "67"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "86"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "F\u00f6ldv\u00e1r fel\u00e9 f\u00e9l\u00faton (Br\u00f3dy J\u00e1nos)"
@@ -6223,13 +6504,14 @@ export const CHORDINFO = [
                 "G+"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 281,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "150"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "From Me To You (The Beatles)"
@@ -6243,13 +6525,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 282,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "138"
                 ]
-            ]
+            }
         ],
         "performer": "Gener\u00e1l egy\u00fcttes",
         "title": "F\u0171r\u00e9sz (Gener\u00e1l egy\u00fcttes)"
@@ -6263,13 +6546,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 283,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "G\u00e1bor \u00c1ron r\u00e9z\u00e1gy\u00faja"
@@ -6284,13 +6568,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "092"
+        "idx": 284,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "92"
                 ]
-            ]
+            }
         ],
         "performer": "Galla Mikl\u00f3s",
         "title": "Galla-Dallas (Galla Mikl\u00f3s)"
@@ -6304,13 +6589,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "036"
+        "idx": 285,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "36"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Gaudemus igitur"
@@ -6324,13 +6610,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 286,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "129"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l",
         "title": "Gedeon b\u00e1csi (Sz\u00e9csi P\u00e1l)"
@@ -6343,13 +6630,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "054"
+        "idx": 287,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "parasztdal \u2013 1525",
         "title": "Geyer Fl\u00f3ri\u00e1n dala (parasztdal \u2013 1525)"
@@ -6363,13 +6651,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "069"
+        "idx": 288,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "69"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa \u2013 Gergely \u00c1gnes",
         "title": "G\u00e9zeng\u00faz (Koncz Zsuzsa \u2013 Gergely \u00c1gnes)"
@@ -6382,13 +6671,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 289,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "156"
                 ]
-            ]
+            }
         ],
         "performer": "Szellemlovas",
         "title": "Ghost Riders In The Sky (Szellemlovas)"
@@ -6403,13 +6693,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 290,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "103"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Gimme Gimme Gimme (ABBA)"
@@ -6426,13 +6717,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "058"
+        "idx": 291,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "58"
                 ]
-            ]
+            }
         ],
         "performer": "Dolly Roll \u2013 Flipper \u00d6csi",
         "title": "Gina (a bestia) (Dolly Roll \u2013 Flipper \u00d6csi)"
@@ -6451,13 +6743,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "031"
+        "idx": 292,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "31"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Girl (The Beatles)"
@@ -6472,13 +6765,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 293,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "121"
                 ]
-            ]
+            }
         ],
         "performer": "Enigma",
         "title": "Give A Bit Of Mmh (Enigma) (Amanda Lear)"
@@ -6495,13 +6789,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "092"
+        "idx": 294,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "92"
                 ]
-            ]
+            }
         ],
         "performer": "Echo egy\u00fcttes",
         "title": "Gondolsz-e majd r\u00e1m (Echo egy\u00fcttes)"
@@ -6517,13 +6812,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "089"
+        "idx": 295,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "89"
                 ]
-            ]
+            }
         ],
         "performer": "Soml\u00f3 Tam\u00e1s",
         "title": "Gondolsz-e r\u00e1m (Soml\u00f3 Tam\u00e1s)"
@@ -6540,13 +6836,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 296,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "113"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Good Bye My Love, Good Bye"
@@ -6561,13 +6858,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 297,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "98"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Good Morning Blues"
@@ -6584,13 +6882,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 298,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "158"
                 ]
-            ]
+            }
         ],
         "performer": "Hair",
         "title": "Good Morning Starshine (Hair)"
@@ -6602,13 +6901,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 299,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "124"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "G\u00f6rcsbe r\u00e1ndult a kezem"
@@ -6625,13 +6925,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 300,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "104"
                 ]
-            ]
+            }
         ],
         "performer": "The Brothers Four",
         "title": "Greenfields (The Brothers Four)"
@@ -6645,13 +6946,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 301,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "103"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Greensleeves"
@@ -6669,20 +6971,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "052"
+        "idx": 302,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "52"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "28",
                     "88"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Guantanamera "
@@ -6696,13 +6999,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 303,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "158"
                 ]
-            ]
+            }
         ],
         "performer": "Nov\u00e1k P\u00e9ter- Kim Nowak",
         "title": "Gy\u00e9m\u00e1nt (Nov\u00e1k P\u00e9ter- Kim Nowak)"
@@ -6717,13 +7021,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 304,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "107"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Gyere k\u00f6zelebb, menek\u00fclj el (Republic)"
@@ -6740,13 +7045,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "078"
+        "idx": 305,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "78"
                 ]
-            ]
+            }
         ],
         "performer": "Kiss Tibor",
         "title": "Gyere t\u00e1ncolj cig\u00e1nyl\u00e1ny (Kiss Tibor)"
@@ -6759,13 +7065,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "068"
+        "idx": 306,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "68"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Gyerekj\u00e1t\u00e9kok (Koncz Zsuzsa)"
@@ -6782,13 +7089,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "067"
+        "idx": 307,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "67"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "Gyerty\u00e1k (Demj\u00e9n Ferenc)"
@@ -6803,13 +7111,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "094"
+        "idx": 308,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "94"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Gyorsan sz\u00e1guld\u00f3 h\u0171s patak partj\u00e1n"
@@ -6825,13 +7134,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 309,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "110"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Gy\u00f6ng\u00e9den \u00f6lelj \u00e1t (\u00e9s ringass szerelem\u2026)"
@@ -6845,20 +7155,21 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "087"
+        "idx": 310,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "87"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "36",
                     "43"
                 ]
-            ]
+            }
         ],
         "performer": "Omega",
         "title": "Gy\u00f6ngyhaj\u00fa l\u00e1ny (Omega)"
@@ -6879,13 +7190,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 311,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "100"
                 ]
-            ]
+            }
         ],
         "performer": "LGT",
         "title": "Ha a csend besz\u00e9lni tudna (LGT)"
@@ -6901,13 +7213,14 @@ export const CHORDINFO = [
                 "Gm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "034"
+        "idx": 312,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "34"
                 ]
-            ]
+            }
         ],
         "performer": "Kisp\u00e1l \u00e9s a Borz",
         "title": "Ha az \u00e9letben (Kisp\u00e1l \u00e9s a Borz)"
@@ -6926,13 +7239,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "065"
+        "idx": 313,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "65"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Ha elm\u00falik kar\u00e1csony (Neoton)"
@@ -6948,13 +7262,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 314,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "136"
                 ]
-            ]
+            }
         ],
         "performer": "Kisteh\u00e9n",
         "title": "Ha \u00e9n egyszer nagyon meg\u00f6regszem (Kisteh\u00e9n)"
@@ -6970,20 +7285,21 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 315,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "94"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "19",
                     "36\u2026"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "Ha \u00e9n r\u00f3zsa voln\u00e9k (Br\u00f3dy J\u00e1nos)"
@@ -7001,13 +7317,14 @@ export const CHORDINFO = [
                 "D#4"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "085"
+        "idx": 316,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "85"
                 ]
-            ]
+            }
         ],
         "performer": "Omega",
         "title": "Ha \u00e9n sz\u00e9l lehetn\u00e9k (Omega)"
@@ -7027,13 +7344,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "064"
+        "idx": 317,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "64"
                 ]
-            ]
+            }
         ],
         "performer": "Delhusa",
         "title": "Ha hallod a harangok hangj\u00e1t (Delhusa)"
@@ -7052,13 +7370,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 318,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "160"
                 ]
-            ]
+            }
         ],
         "performer": "Gener\u00e1l egy\u00fcttes",
         "title": "Ha ismern\u00e9m (Gener\u00e1l egy\u00fcttes)"
@@ -7073,13 +7392,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 319,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "114"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Ha itt lenn\u00e9l velem (Republic)"
@@ -7098,13 +7418,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "024"
+        "idx": 320,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "24"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "Ha legk\u00f6zelebb l\u00e1tlak (Kov\u00e1cs Kati)"
@@ -7120,13 +7441,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 321,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "150"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Ha m\u00e9g egyszer l\u00e1thatn\u00e1m (Republic)"
@@ -7142,13 +7464,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "097"
+        "idx": 322,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "97"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Ha minden nyelven (A f\u00e9ny a napb\u00f3l j\u00f6n\u2026)"
@@ -7163,13 +7486,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 323,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "134"
                 ]
-            ]
+            }
         ],
         "performer": "Piramis",
         "title": "Ha volna k\u00e9t \u00e9letem (Piramis)"
@@ -7188,13 +7512,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "050"
+        "idx": 324,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "Kulka",
         "title": "Ha volna valaki (Kulka)"
@@ -7209,13 +7534,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "055"
+        "idx": 325,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "55"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hacc\u00e1r\u00e9, haccac\u00e1r\u00e9"
@@ -7230,26 +7556,28 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 326,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "162"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy Egy\u00fcttes",
         "title": "Hadd f\u0151zzek ma magamnak (Bergendy Egy\u00fcttes)"
     },
     {
         "chords": [],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "050"
+        "idx": 327,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hajm\u00e1si P\u00e9ter, Hajm\u00e1si P\u00e1l"
@@ -7266,13 +7594,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "049"
+        "idx": 328,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "49"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hajm\u00e1si P\u00e9ter, Hajm\u00e1si P\u00e1l"
@@ -7289,13 +7618,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 329,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "167"
                 ]
-            ]
+            }
         ],
         "performer": "Groovehouse",
         "title": "Hajnal (Groovehouse)"
@@ -7308,13 +7638,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 330,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "159"
                 ]
-            ]
+            }
         ],
         "performer": "Dinny\u00e9s J\u00f3zsef",
         "title": "Hajnali \u00e9nek (Dinny\u00e9s J\u00f3zsef)"
@@ -7328,13 +7659,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "097"
+        "idx": 331,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "97"
                 ]
-            ]
+            }
         ],
         "performer": "T\u00e1trai Band & Horv\u00e1th Charlie",
         "title": "Hajnali sz\u00e9l (T\u00e1trai Band & Horv\u00e1th Charlie)"
@@ -7348,13 +7680,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 332,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "132"
                 ]
-            ]
+            }
         ],
         "performer": "P\u00e9terfi Bori",
         "title": "Hajolj bele a hajamba (P\u00e9terfi Bori)"
@@ -7369,13 +7702,14 @@ export const CHORDINFO = [
                 "Em7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "013"
+        "idx": 333,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "13"
                 ]
-            ]
+            }
         ],
         "performer": "Hobo Blues Band",
         "title": "Hajt\u00f3k dala (Hobo Blues Band)"
@@ -7390,13 +7724,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "091"
+        "idx": 334,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "91"
                 ]
-            ]
+            }
         ],
         "performer": "Kulka J\u00e1nos",
         "title": "Halleluja (Kulka J\u00e1nos)"
@@ -7411,19 +7746,20 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 335,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "162"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "Shrek-Leonard Cohen",
         "title": "Hallelujah (Shrek-Leonard Cohen)"
@@ -7436,13 +7772,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "048"
+        "idx": 336,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "48"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hallod-e Rozika, te (\u2026gyer\u00fcnk a moziba be...)"
@@ -7462,13 +7799,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 337,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "136"
                 ]
-            ]
+            }
         ],
         "performer": "Ottawan",
         "title": "Hands Up (Ottawan)"
@@ -7484,13 +7822,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 338,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "163"
                 ]
-            ]
+            }
         ],
         "performer": "Vincze Vikt\u00f3ria",
         "title": "H\u00e1ny \u00e9jjel v\u00e1rtam (Vincze Vikt\u00f3ria)"
@@ -7506,13 +7845,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 339,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "156"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Happy Days Are Here Again"
@@ -7527,13 +7867,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "078"
+        "idx": 340,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "78"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "H\u00e1rom deci k\u00f6m\u00e9nymag"
@@ -7546,13 +7887,14 @@ export const CHORDINFO = [
                 "Gm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "047"
+        "idx": 341,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "47"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hava nagila"
@@ -7568,13 +7910,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "061"
+        "idx": 342,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "61"
                 ]
-            ]
+            }
         ],
         "performer": "Creedence C. Rev.",
         "title": "Have You Ever Seen The Rain (Creedence C. Rev.)"
@@ -7593,13 +7936,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 343,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "107"
                 ]
-            ]
+            }
         ],
         "performer": "Bal\u00e1zs Fec\u00f3",
         "title": "Hazafel\u00e9 (Bal\u00e1zs Fec\u00f3)"
@@ -7615,13 +7959,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "006"
+        "idx": 344,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "6"
                 ]
-            ]
+            }
         ],
         "performer": " M\u00e1t\u00e9 P\u00e9ter",
         "title": "Haz\u00e1m ( M\u00e1t\u00e9 P\u00e9ter)"
@@ -7637,13 +7982,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "077"
+        "idx": 345,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "77"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hej del\u00e1r\u00e9, del\u00e1r\u00e9 (\u2026beteg lett a cig\u00e1nyn\u00e9)"
@@ -7659,13 +8005,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "075"
+        "idx": 346,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "75"
                 ]
-            ]
+            }
         ],
         "performer": "r\u00e9szeges l\u00f3",
         "title": "Hej Rig\u00f3, Rig\u00f3 (\u2026r\u00e9szeges l\u00f3)"
@@ -7678,13 +8025,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 347,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "173"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hej, Dun\u00e1r\u00f3l f\u00faj a sz\u00e9l"
@@ -7696,20 +8044,21 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 348,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "145"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "18",
                     "35"
                 ]
-            ]
+            }
         ],
         "performer": "n\u00e9pdal Br\u00f3dy vers\u00e9vel",
         "title": "Hej, tulip\u00e1n, tulip\u00e1n (n\u00e9pdal Br\u00f3dy vers\u00e9vel)"
@@ -7725,13 +8074,14 @@ export const CHORDINFO = [
                 "Ab9"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 349,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "176"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka - Br\u00f3dy J\u00e1nos",
         "title": "Helikoffer (Hal\u00e1sz Jutka - Br\u00f3dy J\u00e1nos)"
@@ -7747,13 +8097,14 @@ export const CHORDINFO = [
                 "E4"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "015"
+        "idx": 350,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "15"
                 ]
-            ]
+            }
         ],
         "performer": "\u00c1kos",
         "title": "Hello (\u00c1kos)"
@@ -7772,13 +8123,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 351,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "146"
                 ]
-            ]
+            }
         ],
         "performer": "Lionel Ritchie",
         "title": "Hello (Lionel Ritchie)"
@@ -7795,13 +8147,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 352,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "Ricky Nelson",
         "title": "Hello Mary Lou (Ricky Nelson)"
@@ -7814,13 +8167,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "028"
+        "idx": 353,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "28"
                 ]
-            ]
+            }
         ],
         "performer": "Haj\u00f3s Andr\u00e1s",
         "title": "Hello tourist (Haj\u00f3s Andr\u00e1s)"
@@ -7843,13 +8197,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "018"
+        "idx": 354,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "18"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Here,There And Everywhere"
@@ -7864,13 +8219,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "046"
+        "idx": 355,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "H\u00e9tre ma v\u00e1rom (\u2026a Nemzetin\u00e9l)"
@@ -7883,13 +8239,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "047"
+        "idx": 356,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "47"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hevenu shalom a\u2019leychem"
@@ -7905,13 +8262,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 357,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "54"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Hey Jude (The Beatles)"
@@ -7928,13 +8286,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 358,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "115"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "Hi\u00e1nyzol (Demj\u00e9n Ferenc)"
@@ -7948,13 +8307,14 @@ export const CHORDINFO = [
                 "E6"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 359,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "165"
                 ]
-            ]
+            }
         ],
         "performer": "The Swinging Blue Jeans",
         "title": "Hippy Hippy Shake (The Swinging Blue Jeans)"
@@ -7968,13 +8328,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 360,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "159"
                 ]
-            ]
+            }
         ],
         "performer": "Ray Charles",
         "title": "Hit The Road Jack (Ray Charles)"
@@ -7989,13 +8350,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "061"
+        "idx": 361,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "61"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Hogy mondjam el (Koncz Zsuzsa)"
@@ -8010,13 +8372,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "088"
+        "idx": 362,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "88"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n",
         "title": "Hogyan tudn\u00e9k \u00e9lni n\u00e9lk\u00fcled (Demj\u00e9n)"
@@ -8031,13 +8394,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "068"
+        "idx": 363,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "68"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n",
         "title": "Hogyan tudn\u00e9k \u00e9lni n\u00e9lk\u00fcled (Demj\u00e9n)"
@@ -8057,13 +8421,14 @@ export const CHORDINFO = [
                 "Gm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "043"
+        "idx": 364,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "43"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "Hol j\u00e1r az eszem (Zalatnay Sarolta)"
@@ -8082,13 +8447,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 365,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "106"
                 ]
-            ]
+            }
         ],
         "performer": "V\u00e1mosi J\u00e1nos",
         "title": "Hold ragyog a Dun\u00e1n (V\u00e1mosi J\u00e1nos)"
@@ -8102,13 +8468,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 366,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "117"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Holdes\u0151 Napsug\u00e1r (Republic)"
@@ -8123,13 +8490,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 367,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "108"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Holnap hajnalig (Neoton)"
@@ -8147,13 +8515,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "080"
+        "idx": 368,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "80"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Home On The Range"
@@ -8170,13 +8539,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "055"
+        "idx": 369,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "55"
                 ]
-            ]
+            }
         ],
         "performer": "Z\u00e1ray M\u00e1rta",
         "title": "Homok\u00f3ra (Z\u00e1ray M\u00e1rta)"
@@ -8191,13 +8561,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "024"
+        "idx": 370,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "24"
                 ]
-            ]
+            }
         ],
         "performer": "Oly t\u00e1vol, messze van haz\u00e1m",
         "title": "Honv\u00e1gydal (Oly t\u00e1vol, messze van haz\u00e1m)"
@@ -8210,13 +8581,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 371,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "138"
                 ]
-            ]
+            }
         ],
         "performer": "Boney M.",
         "title": "Hooray, It\u2019s a Holiday (Boney M.)"
@@ -8233,13 +8605,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "076"
+        "idx": 372,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "76"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hopp, te Zsiga"
@@ -8259,13 +8632,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 373,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "109"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "Hossz\u00fa, forr\u00f3 ny\u00e1r (Zalatnay Sarolta)"
@@ -8282,13 +8656,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 374,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "108"
                 ]
-            ]
+            }
         ],
         "performer": "The Eagles",
         "title": "Hotel California (The Eagles)"
@@ -8301,13 +8676,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "053"
+        "idx": 375,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "53"
                 ]
-            ]
+            }
         ],
         "performer": "Elvis Presley-\u201dBig Mama\u201d Thornton",
         "title": "Hound Dog (Elvis Presley-\u201dBig Mama\u201d Thornton)"
@@ -8321,13 +8697,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 376,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "172"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Hull a szilva a f\u00e1r\u00f3l"
@@ -8345,13 +8722,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "064"
+        "idx": 377,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "64"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Hull az els\u00e1rgult lev\u00e9l (M\u00e1t\u00e9 P\u00e9ter)"
@@ -8366,13 +8744,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "081"
+        "idx": 378,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "81"
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f",
         "title": "Hunyd le a szemed (bontsd ki az \u00f6ved) (Fonogr\u00e1f)"
@@ -8386,13 +8765,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 379,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "155"
                 ]
-            ]
+            }
         ],
         "performer": "altat\u00f3",
         "title": "Hunyd le sz\u00e9p szemedet (altat\u00f3)"
@@ -8405,13 +8785,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 380,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "154"
                 ]
-            ]
+            }
         ],
         "performer": "am.ndal \u2013 altat\u00f3",
         "title": "Hush Little Baby (am.ndal \u2013 altat\u00f3)"
@@ -8424,13 +8805,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 381,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "154"
                 ]
-            ]
+            }
         ],
         "performer": "am.ndal \u2013 altat\u00f3",
         "title": "Hush You Bye (am.ndal \u2013 altat\u00f3)"
@@ -8446,13 +8828,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "047"
+        "idx": 382,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "47"
                 ]
-            ]
+            }
         ],
         "performer": "Kom\u00e1r L\u00e1szl\u00f3",
         "title": "H\u00fasz \u00e9v m\u00falva (Kom\u00e1r L\u00e1szl\u00f3)"
@@ -8467,13 +8850,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 383,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Husz\u00e1rgyerek, husz\u00e1rgyerek"
@@ -8489,7 +8873,8 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [],
+        "idx": 384,
+        "pagerefs": [],
         "performer": "Sonny & Cher",
         "title": "I Got You Babe (Sonny & Cher)"
     },
@@ -8502,13 +8887,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 385,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "145"
                 ]
-            ]
+            }
         ],
         "performer": "Stevie Wonder",
         "title": "I Just Called To Say I Love You (Stevie Wonder)"
@@ -8525,13 +8911,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 386,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "103"
                 ]
-            ]
+            }
         ],
         "performer": "Bay City Rollers",
         "title": "I Only Wanna Be with You (Bay City Rollers)"
@@ -8546,13 +8933,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 387,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "48"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "I Saw Her Standing There (The Beatles)"
@@ -8567,20 +8955,22 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "033"
+        "idx": 388,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "33"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "I Should Have Known Better (The Beatles)"
     },
     {
         "chords": [],
-        "pages": [],
+        "idx": 389,
+        "pagerefs": [],
         "performer": "U2",
         "title": "I Still Haven\u2019t Found What I\u2019m Looking For (U2)"
     },
@@ -8595,13 +8985,14 @@ export const CHORDINFO = [
                 "Dm7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "032"
+        "idx": 390,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "32"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "I Wanna Hold Your Hand (The Beatles)"
@@ -8621,13 +9012,14 @@ export const CHORDINFO = [
                 "D#"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "019"
+        "idx": 391,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "19"
                 ]
-            ]
+            }
         ],
         "performer": "Beatles \u2013 Paul McCartney",
         "title": "I Will (Beatles \u2013 Paul McCartney)"
@@ -8642,13 +9034,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "046"
+        "idx": 392,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "I Wish You A Merry Christmas"
@@ -8662,13 +9055,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 393,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "133"
                 ]
-            ]
+            }
         ],
         "performer": "Lobo",
         "title": "I\u2019d Love You To Want Me (Lobo)"
@@ -8688,7 +9082,8 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [],
+        "idx": 394,
+        "pagerefs": [],
         "performer": "The Beatles",
         "title": "I\u2019ll Follow The Sun (The Beatles)"
     },
@@ -8701,13 +9096,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "060"
+        "idx": 395,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "60"
                 ]
-            ]
+            }
         ],
         "performer": "The Monkees",
         "title": "I\u2019m a Believer (The Monkees)"
@@ -8723,13 +9119,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 396,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "154"
                 ]
-            ]
+            }
         ],
         "performer": "Brenda Lee",
         "title": "I\u2019m Sorry (Brenda Lee)"
@@ -8745,13 +9142,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "069"
+        "idx": 397,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "69"
                 ]
-            ]
+            }
         ],
         "performer": "Jo\u00f3s Jutka",
         "title": "Icipici kis mese (Jo\u00f3s Jutka)"
@@ -8766,13 +9164,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 398,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "64"
                 ]
-            ]
+            }
         ],
         "performer": "John Lennon",
         "title": "Imagine (John Lennon)"
@@ -8785,13 +9184,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "026"
+        "idx": 399,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "26"
                 ]
-            ]
+            }
         ],
         "performer": "Mungo Jerry",
         "title": "In The Summertime (Mungo Jerry)"
@@ -8807,13 +9207,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "097"
+        "idx": 400,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "97"
                 ]
-            ]
+            }
         ],
         "performer": "Soml\u00f3 Tam\u00e1s",
         "title": "Indulni kell (Soml\u00f3 Tam\u00e1s)"
@@ -8830,13 +9231,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "090"
+        "idx": 401,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "90"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Internacion\u00e1l\u00e9"
@@ -8853,13 +9255,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "064"
+        "idx": 402,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "64"
                 ]
-            ]
+            }
         ],
         "performer": "Aradszky L\u00e1szl\u00f3",
         "title": "Isten v\u00e9led \u00e9des Pirosk\u00e1m (Aradszky L\u00e1szl\u00f3)"
@@ -8875,13 +9278,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 403,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "138"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria \u2013 Dolly Roll",
         "title": "Isztambul (Hung\u00e1ria \u2013 Dolly Roll)"
@@ -8895,13 +9299,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 404,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "102"
                 ]
-            ]
+            }
         ],
         "performer": "Bonnie Tyler",
         "title": "It\u2019s A Heartache (Bonnie Tyler)"
@@ -8915,13 +9320,14 @@ export const CHORDINFO = [
                 "Cm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 405,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "157"
                 ]
-            ]
+            }
         ],
         "performer": "Elvis..is",
         "title": "It\u2019s Now Or Never (Elvis..is)"
@@ -8938,13 +9344,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 406,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "131"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Itt \u00e1llok egymagam (Ill\u00e9s) "
@@ -8962,13 +9369,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 407,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "146"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Jaj, de j\u00f3 a habos s\u00fctem\u00e9ny"
@@ -8982,13 +9390,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 408,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "170"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "J\u00e1nos b\u00e1csi pip\u00e1ja (Zalatnay Sarolta)"
@@ -9003,13 +9412,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "046"
+        "idx": 409,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "J\u00e1nos legyen (\u2026fenn a J\u00e1nos-hegyen)"
@@ -9026,13 +9436,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "065"
+        "idx": 410,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "65"
                 ]
-            ]
+            }
         ],
         "performer": "macskak\u00f6ves utam",
         "title": "J\u00e1rom az utam (macskak\u00f6ves utam)"
@@ -9047,13 +9458,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 411,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "151"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka \u2013 Br\u00f3dy J\u00e1nos",
         "title": "J\u00e1tsszunk (most) egy\u00fctt (Hal\u00e1sz Jutka \u2013 Br\u00f3dy J\u00e1nos)"
@@ -9068,13 +9480,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "064"
+        "idx": 412,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "64"
                 ]
-            ]
+            }
         ],
         "performer": "Charlie",
         "title": "J\u00e9g dupla whiskyvel (Charlie)"
@@ -9092,13 +9505,14 @@ export const CHORDINFO = [
                 "B5b"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "066"
+        "idx": 413,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "66"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "J\u00e9gsz\u00edv (Demj\u00e9n Ferenc)"
@@ -9113,13 +9527,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 414,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "116"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s \u2013 Koncz Zsuzsa",
         "title": "Jelbesz\u00e9d (Ill\u00e9s \u2013 Koncz Zsuzsa)"
@@ -9134,13 +9549,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "008"
+        "idx": 415,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "8"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy egy\u00fcttes",
         "title": "Jelsz\u00f3: Love-szeretet! (Bergendy egy\u00fcttes)"
@@ -9156,13 +9572,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 416,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "N\u00e9vtelen nulla-Hevesi Tam\u00e1s",
         "title": "Jeremy (N\u00e9vtelen nulla-Hevesi Tam\u00e1s)"
@@ -9176,13 +9593,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "046"
+        "idx": 417,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e1ncseng\u0151",
         "title": "Jingle Bells (Sz\u00e1ncseng\u0151)"
@@ -9199,13 +9617,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 418,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "118"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Erzsi",
         "title": "J\u00f3 az \u00e1lmodoz\u00e1s (Kov\u00e1cs Erzsi)"
@@ -9220,13 +9639,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 419,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "112"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "J\u00f3 reggelt k\u00edv\u00e1nok (Republic)"
@@ -9243,19 +9663,20 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "056"
+        "idx": 420,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "56"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "97"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "John Brown\u2019s Body"
@@ -9267,13 +9688,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "096"
+        "idx": 421,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "96"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Joshua Fit The Bottle Of Jericho "
@@ -9294,13 +9716,14 @@ export const CHORDINFO = [
                 "Dmaj7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "074"
+        "idx": 422,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "74"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n",
         "title": "J\u00f6jj vissza v\u00e1ndor (Demj\u00e9n)"
@@ -9313,13 +9736,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "080"
+        "idx": 423,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "80"
                 ]
-            ]
+            }
         ],
         "performer": "gyere, mondd el mit \u00e9rzel",
         "title": "J\u00f6jj, kedvesem (gyere, mondd el mit \u00e9rzel) (Fonogr\u00e1f)"
@@ -9335,13 +9759,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "048"
+        "idx": 424,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "48"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "J\u00f6jj\u00f6n ki \u00d3bud\u00e1ra (\u2026egy j\u00f3 t\u00far\u00f3scsusz\u00e1ra)"
@@ -9357,13 +9782,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 425,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "152"
                 ]
-            ]
+            }
         ],
         "performer": "Napoleon Boulevard",
         "title": "J\u00falia nem akar a f\u00f6ld\u00f6n j\u00e1rni (Napoleon Boulevard)"
@@ -9376,13 +9802,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "073"
+        "idx": 426,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "73"
                 ]
-            ]
+            }
         ],
         "performer": "Z\u00e1ray-V\u00e1mosi",
         "title": "Kacsat\u00e1nc (Z\u00e1ray-V\u00e1mosi)"
@@ -9399,13 +9826,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "053"
+        "idx": 427,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "53"
                 ]
-            ]
+            }
         ],
         "performer": "-pom-pom",
         "title": "Kalapom (-pom-pom)"
@@ -9419,13 +9847,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "073"
+        "idx": 428,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "73"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "Kal\u00f3zdal az almasz\u00f3szr\u00f3l (Hal\u00e1sz Jutka)"
@@ -9439,13 +9868,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "067"
+        "idx": 429,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "67"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "Kar\u00e1csony \u00fcnnep\u00e9n (Hal\u00e1sz Jutka)"
@@ -9459,13 +9889,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "063"
+        "idx": 430,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "63"
                 ]
-            ]
+            }
         ],
         "performer": "Dinny\u00e9s J\u00f3zsef",
         "title": "Karrier (Dinny\u00e9s J\u00f3zsef)"
@@ -9481,13 +9912,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "086"
+        "idx": 431,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "86"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Katyusa"
@@ -9501,13 +9933,14 @@ export const CHORDINFO = [
                 "C7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 432,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "148"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Keep On The Sunny Side"
@@ -9522,19 +9955,20 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "048"
+        "idx": 433,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "48"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "56-107"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "K\u00e9glidal (Ill\u00e9s)"
@@ -9549,13 +9983,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 434,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "147"
                 ]
-            ]
+            }
         ],
         "performer": "arca csupa der\u0171",
         "title": "K\u00e9k a szeme (\u2026arca csupa der\u0171)"
@@ -9570,13 +10005,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 435,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "103"
                 ]
-            ]
+            }
         ],
         "performer": "LGT",
         "title": "K\u00e9k asszony (LGT)"
@@ -9593,13 +10029,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "022"
+        "idx": 436,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "22"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l - K\u00e9k csillag egy\u00fcttes",
         "title": "K\u00e9k csillag (Sz\u00e9csi P\u00e1l - K\u00e9k csillag egy\u00fcttes)"
@@ -9615,13 +10052,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 437,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "109"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "K\u00e9k \u00e9s Narancss\u00e1rga (Republic)"
@@ -9637,13 +10075,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "043"
+        "idx": 438,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "43"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e1llj s\u00f3lyom sz\u00e1rny\u00e1n",
         "title": "Kell m\u00e9g egy sz\u00f3 (Sz\u00e1llj s\u00f3lyom sz\u00e1rny\u00e1n)"
@@ -9658,13 +10097,14 @@ export const CHORDINFO = [
                 "A9"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "080"
+        "idx": 439,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "80"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Kell ott fenn egy orsz\u00e1g (Zor\u00e1n)"
@@ -9682,19 +10122,20 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "018"
+        "idx": 440,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "18"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "82"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Kell, hogy v\u00e1rj (v\u00e1rj is meg) (Neoton)"
@@ -9708,13 +10149,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 441,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "135"
                 ]
-            ]
+            }
         ],
         "performer": "Gener\u00e1l egy\u00fcttes",
         "title": "K\u00e9rd\u00e9s (Gener\u00e1l egy\u00fcttes)"
@@ -9730,13 +10172,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "070"
+        "idx": 442,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "70"
                 ]
-            ]
+            }
         ],
         "performer": "\u00fagy szeretn\u00e9k egy bozontos",
         "title": "K\u00e9rek egy kiskuty\u00e1t (\"\u00fagy szeretn\u00e9k egy bozontos\u201d)"
@@ -9754,13 +10197,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "014"
+        "idx": 443,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "14"
                 ]
-            ]
+            }
         ],
         "performer": "\u00c1kos",
         "title": "Keresd meg a l\u00e1nyt (\u00c1kos)"
@@ -9775,13 +10219,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 444,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "117"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Keresem a sz\u00f3t (Ill\u00e9s)"
@@ -9795,13 +10240,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "067"
+        "idx": 445,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "67"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Kert\u00e9sz leszek (Koncz Zsuzsa)"
@@ -9813,13 +10259,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 446,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "126"
                 ]
-            ]
+            }
         ],
         "performer": "Bolyki Brothers",
         "title": "K\u00e9t akkord (Bolyki Brothers)"
@@ -9835,13 +10282,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "040"
+        "idx": 447,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "40"
                 ]
-            ]
+            }
         ],
         "performer": "Psota Ir\u00e9n",
         "title": "K\u00e9t kicsi kecske (Psota Ir\u00e9n)"
@@ -9855,13 +10303,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 448,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "141"
                 ]
-            ]
+            }
         ],
         "performer": "P. Mobil",
         "title": "K\u00e9tforintos dal (P. Mobil)"
@@ -9877,13 +10326,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "099"
+        "idx": 449,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "99"
                 ]
-            ]
+            }
         ],
         "performer": "Bikini",
         "title": "Ki visz haza (Bikini)"
@@ -9900,13 +10350,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "082"
+        "idx": 450,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "82"
                 ]
-            ]
+            }
         ],
         "performer": "Cserh\u00e1ti",
         "title": "Kicsi gyere velem r\u00f3zs\u00e1t szedni (Cserh\u00e1ti)"
@@ -9923,13 +10374,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "068"
+        "idx": 451,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "68"
                 ]
-            ]
+            }
         ],
         "performer": "Cserh\u00e1ti",
         "title": "Kicsi gyere velem r\u00f3zs\u00e1t szedni (Cserh\u00e1ti)"
@@ -9947,13 +10399,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "026"
+        "idx": 452,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "26"
                 ]
-            ]
+            }
         ],
         "performer": "Csinibaba",
         "title": "Kicsit szomork\u00e1s a hangulatom (Csinibaba)"
@@ -9974,13 +10427,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 453,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "131"
                 ]
-            ]
+            }
         ],
         "performer": "R. Flack",
         "title": "Killing Me Softly (R. Flack)"
@@ -9995,13 +10449,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "066"
+        "idx": 454,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "66"
                 ]
-            ]
+            }
         ],
         "performer": "Friderika",
         "title": "Kinek mondjam el v\u00e9tkeimet (Friderika)"
@@ -10015,13 +10470,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 455,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "99"
                 ]
-            ]
+            }
         ],
         "performer": "The Rolling Stones",
         "title": "King Bee (The Rolling Stones)"
@@ -10035,13 +10491,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 456,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "139"
                 ]
-            ]
+            }
         ],
         "performer": "Hooligans",
         "title": "Kir\u00e1lyl\u00e1ny (Hooligans)"
@@ -10056,13 +10513,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 457,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "106"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Kir\u00fagjuk magunk al\u00f3l a F\u00f6ldet (Republic)"
@@ -10079,13 +10537,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "063"
+        "idx": 458,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "63"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Kis herceg (Koncz Zsuzsa)"
@@ -10100,13 +10559,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "061"
+        "idx": 459,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "61"
                 ]
-            ]
+            }
         ],
         "performer": "Ko\u00f3s J\u00e1nos",
         "title": "Kisl\u00e1ny a zongor\u00e1n\u00e1l (Ko\u00f3s J\u00e1nos)"
@@ -10122,13 +10582,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "053"
+        "idx": 460,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "53"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Kisl\u00e1ny kezeket fel"
@@ -10144,13 +10605,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 461,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "126"
                 ]
-            ]
+            }
         ],
         "performer": "Express egy\u00fcttes-Solymos T\u00f3ni",
         "title": "Kisl\u00e1ny vigy\u00e1zz (Express egy\u00fcttes-Solymos T\u00f3ni)"
@@ -10164,13 +10626,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "060"
+        "idx": 462,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "60"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l",
         "title": "Kismad\u00e1r \u2013 Butterfly (Sz\u00e9csi P\u00e1l)"
@@ -10185,13 +10648,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 463,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "133"
                 ]
-            ]
+            }
         ],
         "performer": "Dylan - Guns \u2019N Roses",
         "title": "Knocking On Heavens Door (Dylan - Guns \u2019N Roses)"
@@ -10205,13 +10669,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "090"
+        "idx": 464,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "90"
                 ]
-            ]
+            }
         ],
         "performer": "Piramis",
         "title": "K\u00f3bor angyal (Piramis)"
@@ -10224,19 +10689,20 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "083"
+        "idx": 465,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "83"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "30"
                 ]
-            ]
+            }
         ],
         "performer": "Metro",
         "title": "K\u00f3cos kis \u00f6rd\u00f6g\u00f6k voltunk (Metro)"
@@ -10250,13 +10716,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "064"
+        "idx": 466,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "64"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Korn\u00e9l \u00e9s Elvira (Koncz Zsuzsa)"
@@ -10271,13 +10738,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 467,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "104"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Kossuth Lajos azt \u00fczente"
@@ -10292,13 +10760,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 468,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "104"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Kossuth Lajos t\u00e1bor\u00e1ban"
@@ -10318,13 +10787,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "030"
+        "idx": 469,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "30"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l",
         "title": "K\u00f3sza sz\u00e9l (Sz\u00e9csi P\u00e1l)"
@@ -10340,13 +10810,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 470,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "154"
                 ]
-            ]
+            }
         ],
         "performer": "Hobo Blues Band-De\u00e1k Bill Gyula",
         "title": "K\u0151b\u00e1nya blues (Hobo Blues Band-De\u00e1k Bill Gyula)"
@@ -10361,13 +10832,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "056"
+        "idx": 471,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "56"
                 ]
-            ]
+            }
         ],
         "performer": "Edda",
         "title": "K\u00f6lyk\u00f6d voltam (Edda)"
@@ -10380,13 +10852,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 472,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "108"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "K\u00f6nnyek helyett (Republic)"
@@ -10406,13 +10879,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "016"
+        "idx": 473,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "16"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "K\u00f6nny\u0171 \u00e1lmot hozzon a sz\u00e9l"
@@ -10427,15 +10901,16 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 474,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "74",
                     "117",
                     "121"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "K\u0151szikl\u00e1n felfut\u00f3"
@@ -10453,13 +10928,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "050"
+        "idx": 475,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "K\u00f6sz\u00f6n\u00f6m, hogy im\u00e1dott"
@@ -10473,13 +10949,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 476,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "139"
                 ]
-            ]
+            }
         ],
         "performer": "Gener\u00e1l egy\u00fcttes",
         "title": "K\u00f6v\u00e9r a nap (Gener\u00e1l egy\u00fcttes)"
@@ -10493,13 +10970,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "098"
+        "idx": 477,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "98"
                 ]
-            ]
+            }
         ],
         "performer": "Bikini",
         "title": "K\u00f6zeli helyeken (Bikini)"
@@ -10514,13 +10992,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "057"
+        "idx": 478,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "57"
                 ]
-            ]
+            }
         ],
         "performer": "my Lord",
         "title": "Kumbaya (my Lord)"
@@ -10537,13 +11016,14 @@ export const CHORDINFO = [
                 "C7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 479,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "119"
                 ]
-            ]
+            }
         ],
         "performer": "Csinibaba",
         "title": "K\u00fcl\u00f6n\u00f6s \u00e9jszaka volt (Csinibaba)"
@@ -10562,13 +11042,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 480,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "144"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "K\u00fcl\u00f6n\u00f6s szilveszter"
@@ -10581,19 +11062,20 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "049"
+        "idx": 481,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "49"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "94"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "La Bamba "
@@ -10609,13 +11091,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 482,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "122"
                 ]
-            ]
+            }
         ],
         "performer": "Tolcsvay testv\u00e9rek",
         "title": "L\u00e1-di-d\u00e1-di-d\u00e1 (Tolcsvay testv\u00e9rek)"
@@ -10633,13 +11116,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "034"
+        "idx": 483,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "34"
                 ]
-            ]
+            }
         ],
         "performer": "The Rolling Stones",
         "title": "Lady Jane (The Rolling Stones)"
@@ -10656,13 +11140,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "061"
+        "idx": 484,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "61"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa-Tolcsvay L.-Fonogr\u00e1f",
         "title": "L\u00e9gy \u00f3vatos (Koncz Zsuzsa-Tolcsvay L.-Fonogr\u00e1f)"
@@ -10679,13 +11164,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "046"
+        "idx": 485,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Legyen a Horv\u00e1th-kertben Bud\u00e1n"
@@ -10702,13 +11188,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 486,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "128"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "Legyen \u00fcnnep (Demj\u00e9n Ferenc)"
@@ -10722,13 +11209,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "010"
+        "idx": 487,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "10"
                 ]
-            ]
+            }
         ],
         "performer": "Napoleon Boulevard",
         "title": "Legyetek j\u00f3k ha tudtok (Napoleon Boulevard)"
@@ -10745,13 +11233,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 488,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "128"
                 ]
-            ]
+            }
         ],
         "performer": "N\u00e9meth Lehel",
         "title": "Lehet, hogy sz\u00e9p nem vagyok - (N\u00e9meth Lehel)"
@@ -10764,19 +11253,20 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "041"
+        "idx": 489,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "41"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "48"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Lehetett volna (Ill\u00e9s)"
@@ -10792,13 +11282,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 490,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "120"
                 ]
-            ]
+            }
         ],
         "performer": "Fool\u2019s Garden",
         "title": "Lemon Tree (Fool\u2019s Garden)"
@@ -10813,13 +11304,14 @@ export const CHORDINFO = [
                 "E4"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "015"
+        "idx": 491,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "15"
                 ]
-            ]
+            }
         ],
         "performer": "Omega - Br\u00f3dy",
         "title": "L\u00e9na (Omega - Br\u00f3dy)"
@@ -10834,13 +11326,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "070"
+        "idx": 492,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "70"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Lenin dal (A rabl\u00e1nc a l\u00e1bon neh\u00e9z volt)"
@@ -10854,13 +11347,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "032"
+        "idx": 493,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "32"
                 ]
-            ]
+            }
         ],
         "performer": "Csilleb\u00e9rc",
         "title": "Lent, hol a t\u00f6lgyek (Csilleb\u00e9rc)"
@@ -10876,13 +11370,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "011"
+        "idx": 494,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "11"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy egy\u00fcttes",
         "title": "Lepihenni melletted (Bergendy egy\u00fcttes)"
@@ -10900,13 +11395,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "077"
+        "idx": 495,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "77"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Lesz maga juszt is az eny\u00e9m"
@@ -10921,13 +11417,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "052"
+        "idx": 496,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "52"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Lesz maga jusztis az eny\u00e9m"
@@ -10942,13 +11439,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 497,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "59"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles \u2013 Paul McCartney",
         "title": "Let It Be (The Beatles \u2013 Paul McCartney)"
@@ -10962,13 +11460,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 498,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "149"
                 ]
-            ]
+            }
         ],
         "performer": "Chubby Checker",
         "title": "Let\u2019s Twist Again (Chubby Checker)"
@@ -10981,19 +11480,20 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "025"
+        "idx": 499,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "25"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "46-112"
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f",
         "title": "Lev\u00e9l a t\u00e1volb\u00f3l (Fonogr\u00e1f)"
@@ -11008,13 +11508,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 500,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "127"
                 ]
-            ]
+            }
         ],
         "performer": "Opus",
         "title": "Life Is Life (Opus)"
@@ -11029,13 +11530,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 501,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "The Doors - Jim Morrison",
         "title": "Light My Fire (The Doors - Jim Morrison)"
@@ -11051,13 +11553,14 @@ export const CHORDINFO = [
                 "C7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 502,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "114"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Lili Marleen"
@@ -11072,13 +11575,14 @@ export const CHORDINFO = [
                 "C7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 503,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "134"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria",
         "title": "Limbo-hint\u00f3 (Hung\u00e1ria)"
@@ -11094,19 +11598,20 @@ export const CHORDINFO = [
                 "D#5"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 504,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "119"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "57"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Little Richard (Ill\u00e9s)"
@@ -11119,13 +11624,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "079"
+        "idx": 505,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "79"
                 ]
-            ]
+            }
         ],
         "performer": "Smokie",
         "title": "Living Next Door To Alice (Smokie)"
@@ -11141,13 +11647,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 506,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "171"
                 ]
-            ]
+            }
         ],
         "performer": "van sz\u00e1mos utca\u2026",
         "title": "Londonban hej (van sz\u00e1mos utca\u2026)"
@@ -11160,13 +11667,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "097"
+        "idx": 507,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "97"
                 ]
-            ]
+            }
         ],
         "performer": "Tankcsapda",
         "title": "Lopott k\u00f6nyvek (Tankcsapda)"
@@ -11180,13 +11688,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "016"
+        "idx": 508,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "16"
                 ]
-            ]
+            }
         ],
         "performer": "R.E.M.",
         "title": "Losing My Religion (R.E.M.)"
@@ -11200,13 +11709,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 509,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "119"
                 ]
-            ]
+            }
         ],
         "performer": "The Troggs",
         "title": "Love Is All Around (The Troggs)"
@@ -11219,14 +11729,15 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 510,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "29",
                     "56"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Love Me Do (The Beatles)"
@@ -11244,13 +11755,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 511,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "108"
                 ]
-            ]
+            }
         ],
         "performer": "Elvis",
         "title": "Love Me Tender (Elvis)"
@@ -11268,13 +11780,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "049"
+        "idx": 512,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "49"
                 ]
-            ]
+            }
         ],
         "performer": "How Do I Begin",
         "title": "Love Story (How Do I Begin)"
@@ -11292,19 +11805,20 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "061"
+        "idx": 513,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "61"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "32"
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f",
         "title": "L\u00f6kd ide a s\u00f6rt (Fonogr\u00e1f)"
@@ -11323,13 +11837,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "052"
+        "idx": 514,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "52"
                 ]
-            ]
+            }
         ],
         "performer": "megint",
         "title": "Ma \u00f6nr\u0151l \u00e1lmodtam (megint)"
@@ -11343,13 +11858,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 515,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "129"
                 ]
-            ]
+            }
         ],
         "performer": "Gary Jules",
         "title": "Mad World (Gary Jules)"
@@ -11363,13 +11879,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 516,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "145"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Mad\u00e1rka, mad\u00e1rka"
@@ -11385,13 +11902,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "081"
+        "idx": 517,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "81"
                 ]
-            ]
+            }
         ],
         "performer": "Kazal L\u00e1szl\u00f3",
         "title": "Maga n\u0151s ember (vagy boldog) (Kazal L\u00e1szl\u00f3)"
@@ -11410,13 +11928,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "080"
+        "idx": 518,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "80"
                 ]
-            ]
+            }
         ],
         "performer": "Kabos",
         "title": "Maga r\u00e9g nem lesz a vil\u00e1gon (Kabos)"
@@ -11431,13 +11950,14 @@ export const CHORDINFO = [
                 "Dm7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "007"
+        "idx": 519,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "7"
                 ]
-            ]
+            }
         ],
         "performer": "Ol\u00e1h Ibolya",
         "title": "Magyarorsz\u00e1g (Ol\u00e1h Ibolya)"
@@ -11450,13 +11970,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "062"
+        "idx": 520,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "62"
                 ]
-            ]
+            }
         ],
         "performer": "Itt van m\u00e1jus elseje",
         "title": "M\u00e1jusk\u00f6sz\u00f6nt\u0151 (Itt van m\u00e1jus elseje)"
@@ -11471,13 +11992,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 521,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "153"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka - Br\u00f3dy J\u00e1nos",
         "title": "M\u00e1kosr\u00e9tes (Hal\u00e1sz Jutka - Br\u00f3dy J\u00e1nos)"
@@ -11495,13 +12017,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "094"
+        "idx": 522,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "94"
                 ]
-            ]
+            }
         ],
         "performer": "Emberek",
         "title": "Mama (Emberek)"
@@ -11522,20 +12045,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "082"
+        "idx": 523,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "82"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "79",
                     "81"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz \u2013 Br\u00f3dy",
         "title": "Mama, k\u00e9rlek (Koncz \u2013 Br\u00f3dy)"
@@ -11552,13 +12076,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "044"
+        "idx": 524,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "44"
                 ]
-            ]
+            }
         ],
         "performer": "Kom\u00e1r L\u00e1szl\u00f3",
         "title": "Mambo Italiano (Kom\u00e1r L\u00e1szl\u00f3)"
@@ -11572,13 +12097,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 525,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "111"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Mamma Maria"
@@ -11594,13 +12120,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 526,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "104"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Mamma Mia (ABBA)"
@@ -11614,13 +12141,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "057"
+        "idx": 527,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "57"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "Mamy Blue (Kov\u00e1cs Kati)"
@@ -11632,13 +12160,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "012"
+        "idx": 528,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "12"
                 ]
-            ]
+            }
         ],
         "performer": "Kom\u00e1r L\u00e1szl\u00f3",
         "title": "Marina (Kom\u00e1r L\u00e1szl\u00f3)"
@@ -11655,13 +12184,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "043"
+        "idx": 529,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "43"
                 ]
-            ]
+            }
         ],
         "performer": "sokan",
         "title": "M\u00e1sok vittek rossz utakra engem (sokan)"
@@ -11681,13 +12211,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 530,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "153"
                 ]
-            ]
+            }
         ],
         "performer": "Bee Gees",
         "title": "Massachusetts (Bee Gees)"
@@ -11702,13 +12233,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "041"
+        "idx": 531,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "41"
                 ]
-            ]
+            }
         ],
         "performer": "Hobo Blues Band",
         "title": "Mata Hari (Hobo Blues Band)"
@@ -11721,13 +12253,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "015"
+        "idx": 532,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "15"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria",
         "title": "Meghalok, hogyha r\u00e1m n\u00e9zel (Hung\u00e1ria)"
@@ -11742,13 +12275,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 533,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "151"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Megy a gomba (Republic)"
@@ -11764,13 +12298,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "038"
+        "idx": 534,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "38"
                 ]
-            ]
+            }
         ],
         "performer": "Echo egy\u00fcttes",
         "title": "Mehemed (Echo egy\u00fcttes)"
@@ -11786,13 +12321,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 535,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "119"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Melody D\u2019Amour"
@@ -11808,13 +12344,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 536,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "112"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Menj el (Zor\u00e1n)"
@@ -11828,13 +12365,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "044"
+        "idx": 537,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "44"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Mennyb\u0151l az angyal"
@@ -11848,13 +12386,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 538,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "166"
                 ]
-            ]
+            }
         ],
         "performer": "Tankcsapda",
         "title": "Mennyorsz\u00e1g Tourist (Tankcsapda)"
@@ -11877,13 +12416,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "083"
+        "idx": 539,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "83"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Meseaut\u00f3ban "
@@ -11898,13 +12438,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "013"
+        "idx": 540,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "13"
                 ]
-            ]
+            }
         ],
         "performer": "Hobo Blues Band",
         "title": "Mes\u00e9l az erd\u0151 (Hobo Blues Band)"
@@ -11922,13 +12463,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "010"
+        "idx": 541,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "10"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "M\u00e9zga csal\u00e1d"
@@ -11941,13 +12483,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 542,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "21"
                 ]
-            ]
+            }
         ],
         "performer": "K\u00e9pzelt riport\u2026",
         "title": "Mi arra sz\u00fclett\u00fcnk (K\u00e9pzelt riport\u2026)"
@@ -11968,13 +12511,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "031"
+        "idx": 543,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "31"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Mi f\u00e1j (Zor\u00e1n)"
@@ -11988,13 +12532,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 544,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "111"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Mi k\u00e9ne m\u00e9g (Zor\u00e1n)"
@@ -12009,13 +12554,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "099"
+        "idx": 545,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "99"
                 ]
-            ]
+            }
         ],
         "performer": "spiritu\u00e1l\u00e9",
         "title": "Michael Row The Boat Ashore (spiritu\u00e1l\u00e9)"
@@ -12032,13 +12578,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 546,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "65"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Michelle (The Beatles)"
@@ -12053,20 +12600,21 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 547,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "108"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "33",
                     "47"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1no-Hal\u00e1sz Jutka-Koncz Zsuzsa",
         "title": "Micimack\u00f3 (Br\u00f3dy J\u00e1no-Hal\u00e1sz Jutka-Koncz Zsuzsa)"
@@ -12082,13 +12630,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "043"
+        "idx": 548,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "43"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria",
         "title": "Micsoda buli (Hung\u00e1ria)"
@@ -12103,13 +12652,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 549,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "116"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Micsoda nagyszer\u0171 dolog (amikor egymagam vagyok)"
@@ -12123,13 +12673,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 550,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "140"
                 ]
-            ]
+            }
         ],
         "performer": "Bikini",
         "title": "Miel\u0151tt elmegyek (Bikini)"
@@ -12146,20 +12697,21 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "076"
+        "idx": 551,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "76"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "39",
                     "55"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s \u2013 Koncz",
         "title": "Mi\u00e9rt hagytuk, hogy \u00edgy legyen (Ill\u00e9s \u2013 Koncz)"
@@ -12172,13 +12724,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "017"
+        "idx": 552,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "17"
                 ]
-            ]
+            }
         ],
         "performer": "Csongr\u00e1di Kata",
         "title": "Milli\u00f3 r\u00f3zsasz\u00e1l (Csongr\u00e1di Kata)"
@@ -12191,13 +12744,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 553,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "121"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "Mindannyian m\u00e1sok vagyunk (Br\u00f3dy J\u00e1nos)"
@@ -12216,13 +12770,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "016"
+        "idx": 554,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "16"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Minden ember boldog akar lenni"
@@ -12238,13 +12793,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "048"
+        "idx": 555,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "48"
                 ]
-            ]
+            }
         ],
         "performer": "Edda",
         "title": "Minden sarkon \u00e1lltam (Edda)"
@@ -12261,13 +12817,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "018"
+        "idx": 556,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "18"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Minden sz\u00f3n\u00e1l t\u00f6bbet \u00e9r egy dal (M\u00e1t\u00e9 P\u00e9ter)"
@@ -12283,13 +12840,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "007"
+        "idx": 557,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "7"
                 ]
-            ]
+            }
         ],
         "performer": "LGT",
         "title": "Mindenki m\u00e1sk\u00e9pp csin\u00e1lja (LGT)"
@@ -12305,13 +12863,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "053"
+        "idx": 558,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "53"
                 ]
-            ]
+            }
         ],
         "performer": "Harangoz\u00f3 Teri",
         "title": "Mindenkinek van egy \u00e1lma (Harangoz\u00f3 Teri)"
@@ -12327,13 +12886,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 559,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "127"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "Mindig kell egy bar\u00e1t (Zalatnay Sarolta)"
@@ -12351,13 +12911,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "088"
+        "idx": 560,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "88"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy \u2013 Demj\u00e9n",
         "title": "Mindig ugyan\u00fagy (Bergendy \u2013 Demj\u00e9n)"
@@ -12372,13 +12933,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "038"
+        "idx": 561,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "38"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Mint a m\u00f3kus fenn a f\u00e1n"
@@ -12395,13 +12957,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "028"
+        "idx": 562,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "28"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l",
         "title": "Mint a viol\u00e1k (Sz\u00e9csi P\u00e1l)"
@@ -12417,13 +12980,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "065"
+        "idx": 563,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "65"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Mire feln\u0151 a gyerek (Koncz Zsuzsa)"
@@ -12438,13 +13002,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 564,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "128"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Miszter Alkohol (Koncz Zsuzsa)"
@@ -12460,13 +13025,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "023"
+        "idx": 565,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "23"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "Mit rem\u00e9lsz \u2013 Que Sera (Kov\u00e1cs Kati)"
@@ -12483,13 +13049,14 @@ export const CHORDINFO = [
                 "D0"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 566,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "152"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka - Br\u00f3dy",
         "title": "Mit tehetn\u00e9k \u00e9rted (Hal\u00e1sz Jutka - Br\u00f3dy)"
@@ -12505,13 +13072,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 567,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "161"
                 ]
-            ]
+            }
         ],
         "performer": "Dolly Roll",
         "title": "Modern rom\u00e1nc (Dolly Roll)"
@@ -12525,13 +13093,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 568,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "168"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Molly Melone"
@@ -12547,13 +13116,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "039"
+        "idx": 569,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "39"
                 ]
-            ]
+            }
         ],
         "performer": "Ullmann M\u00f3nika",
         "title": "Moncsicsi (Ullmann M\u00f3nika)"
@@ -12568,13 +13138,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 570,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "126"
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f",
         "title": "Mondd, hogy nem haragszol r\u00e1m (Fonogr\u00e1f)"
@@ -12591,13 +13162,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "040"
+        "idx": 571,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "40"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Mondd, mi\u00e9rt szeretsz te m\u00e1st (M\u00e1t\u00e9 P\u00e9ter)"
@@ -12612,13 +13184,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "072"
+        "idx": 572,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "72"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Money, Money, Money (ABBA)"
@@ -12637,13 +13210,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 573,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "149"
                 ]
-            ]
+            }
         ],
         "performer": "Hold Foly\u00f3",
         "title": "Moon River (Hold Foly\u00f3)"
@@ -12657,13 +13231,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 574,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "157"
                 ]
-            ]
+            }
         ],
         "performer": "Mike Oldfield",
         "title": "Moonlight Shadow (Mike Oldfield)"
@@ -12682,13 +13257,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "019"
+        "idx": 575,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "19"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Most \u00e9lsz (M\u00e1t\u00e9 P\u00e9ter)"
@@ -12705,13 +13281,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "028"
+        "idx": 576,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "28"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "Most k\u00e9ne abbahagyni (Kov\u00e1cs Kati)"
@@ -12728,13 +13305,14 @@ export const CHORDINFO = [
                 "C0"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 577,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "168"
                 ]
-            ]
+            }
         ],
         "performer": "Quimby",
         "title": "Most m\u00falik pontosan (Quimby)"
@@ -12752,13 +13330,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "087"
+        "idx": 578,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "87"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Moszkva-parti est\u00e9k"
@@ -12774,13 +13353,14 @@ export const CHORDINFO = [
                 "Hm7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "044"
+        "idx": 579,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "44"
                 ]
-            ]
+            }
         ],
         "performer": "V\u2019Motorock - Demj\u00e9n",
         "title": "Moziklip (\u00dclj k\u00f6zel hozz\u00e1m) (V\u2019Motorock - Demj\u00e9n)"
@@ -12793,13 +13373,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 580,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "125"
                 ]
-            ]
+            }
         ],
         "performer": "Bob Dylan",
         "title": "Mr. Tambourine Man (Bob Dylan)"
@@ -12816,13 +13397,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "089"
+        "idx": 581,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "89"
                 ]
-            ]
+            }
         ],
         "performer": "Ih\u00e1sz G\u00e1bor",
         "title": "M\u00falnak a gyermek\u00e9vek (Ih\u00e1sz G\u00e1bor)"
@@ -12837,13 +13419,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "098"
+        "idx": 582,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "98"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Munk\u00e1s gy\u00e1szindul\u00f3"
@@ -12859,13 +13442,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "073"
+        "idx": 583,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "73"
                 ]
-            ]
+            }
         ],
         "performer": "lies over the ocean",
         "title": "My Bonnie (lies over the ocean)"
@@ -12879,13 +13463,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "073"
+        "idx": 584,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "73"
                 ]
-            ]
+            }
         ],
         "performer": "Nirvana",
         "title": "My Girl \u2013 Where Did You Sleep Last Night (Nirvana)"
@@ -12901,13 +13486,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 585,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "116"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Nagy k\u0151 zuhan (Republic)"
@@ -12924,13 +13510,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "056"
+        "idx": 586,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "56"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa \u2013 Gergely \u00c1gi",
         "title": "Nagymami (Koncz Zsuzsa \u2013 Gergely \u00c1gi)"
@@ -12947,13 +13534,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "027"
+        "idx": 587,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "27"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "N\u00e1lad lenni \u00fajra j\u00f3 lenne (Kov\u00e1cs Kati)"
@@ -12969,13 +13557,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 588,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "133"
                 ]
-            ]
+            }
         ],
         "performer": "Gemini egy\u00fcttes",
         "title": "Ne felejts el eml\u00e9kezni arra (Gemini egy\u00fcttes)"
@@ -12991,13 +13580,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "057"
+        "idx": 589,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "57"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Ne gondold (Ill\u00e9s)"
@@ -13015,13 +13605,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 590,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "130"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "Ne s\u00edrj (Demj\u00e9n Ferenc)"
@@ -13035,13 +13626,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "095"
+        "idx": 591,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "95"
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f",
         "title": "Ne v\u00e1gj ki minden f\u00e1t (Fonogr\u00e1f) "
@@ -13057,13 +13649,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 592,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "124"
                 ]
-            ]
+            }
         ],
         "performer": "kedvesem",
         "title": "Ne v\u00e1rd a m\u00e1just (kedvesem) (Br\u00f3dy \u2013 Zor\u00e1n)"
@@ -13081,13 +13674,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 593,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "102"
                 ]
-            ]
+            }
         ],
         "performer": "Apostol",
         "title": "Neh\u00e9z a boldogs\u00e1gt\u00f3l b\u00facs\u00fat venni (Apostol)"
@@ -13107,13 +13701,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "014"
+        "idx": 594,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "14"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy",
         "title": "Neh\u00e9z az iskolat\u00e1ska (Bergendy)"
@@ -13128,13 +13723,14 @@ export const CHORDINFO = [
                 "A4"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 595,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "44"
                 ]
-            ]
+            }
         ],
         "performer": "LGT",
         "title": "Neked \u00edrom a dalt (LGT)"
@@ -13149,13 +13745,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "036"
+        "idx": 596,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "36"
                 ]
-            ]
+            }
         ],
         "performer": "N\u00e9meth Lehel",
         "title": "Nekem a Balaton a Rivi\u00e9ra (N\u00e9meth Lehel)"
@@ -13169,13 +13766,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 597,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "172"
                 ]
-            ]
+            }
         ],
         "performer": "trad",
         "title": "Nekimentem a Tisz\u00e1nak (trad)"
@@ -13188,13 +13786,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "010"
+        "idx": 598,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "10"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Nem akarok \u00e1llni (Ill\u00e9s)"
@@ -13211,13 +13810,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "027"
+        "idx": 599,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "27"
                 ]
-            ]
+            }
         ],
         "performer": "Aradszky L\u00e1szl\u00f3",
         "title": "Nem csak a h\u00fasz\u00e9vesek\u00e9 a vil\u00e1g (Aradszky L\u00e1szl\u00f3)"
@@ -13234,13 +13834,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "076"
+        "idx": 600,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "76"
                 ]
-            ]
+            }
         ],
         "performer": "Hopp, te Zsiga",
         "title": "Nem kell n\u00e9kem a pog\u00e1csa (Hopp, te Zsiga)"
@@ -13258,13 +13859,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "075"
+        "idx": 601,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "75"
                 ]
-            ]
+            }
         ],
         "performer": "M7",
         "title": "Nem lehet boldogs\u00e1got venni (M7)"
@@ -13282,13 +13884,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "026"
+        "idx": 602,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "26"
                 ]
-            ]
+            }
         ],
         "performer": "Kov\u00e1cs Kati",
         "title": "Nem leszek a j\u00e1t\u00e9kszered (Kov\u00e1cs Kati)"
@@ -13304,13 +13907,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 603,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "130"
                 ]
-            ]
+            }
         ],
         "performer": "Apostol egy\u00fcttes",
         "title": "Nem tudok \u00e9lni n\u00e9lk\u00fcled (Apostol egy\u00fcttes)"
@@ -13326,13 +13930,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 604,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "124"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "Nem vagyok \u00e9n ap\u00e1ca (Zalatnay Sarolta)"
@@ -13346,13 +13951,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 605,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "142"
                 ]
-            ]
+            }
         ],
         "performer": "Ko\u00f3s J\u00e1nos",
         "title": "Nem vagyok ideges (\u2026f\u0151 a nyugalom) (Ko\u00f3s J\u00e1nos)"
@@ -13367,13 +13973,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "033"
+        "idx": 606,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "33"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "Nem v\u00e1rok holnapig (Zalatnay Sarolta)"
@@ -13389,13 +13996,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 607,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "Tolcsvay L\u00e1szl\u00f3",
         "title": "Nemzeti dal (Tolcsvay L\u00e1szl\u00f3)"
@@ -13412,13 +14020,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "065"
+        "idx": 608,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "65"
                 ]
-            ]
+            }
         ],
         "performer": "Charlie",
         "title": "N\u00e9zz az \u00e9g fel\u00e9 (Charlie)"
@@ -13433,13 +14042,14 @@ export const CHORDINFO = [
                 "E6"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "016"
+        "idx": 609,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "16"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "N\u00e9zz r\u00e1m (Ill\u00e9s)"
@@ -13454,13 +14064,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 610,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "139"
                 ]
-            ]
+            }
         ],
         "performer": "Delhusa Gjon",
         "title": "Nika se perimeno (Delhusa Gjon)"
@@ -13478,13 +14089,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 611,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "132"
                 ]
-            ]
+            }
         ],
         "performer": "Harangoz\u00f3 Ter\u00e9z",
         "title": "Nincs olyan szerencs\u00e9m (Harangoz\u00f3 Ter\u00e9z)"
@@ -13499,13 +14111,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 612,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "144"
                 ]
-            ]
+            }
         ],
         "performer": "Apostol",
         "title": "Nincs szerencs\u00e9m (\u2026a szerelemben) (Apostol)"
@@ -13522,13 +14135,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "030"
+        "idx": 613,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "30"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Nincsen olyan ember (Koncz Zsuzsa)"
@@ -13545,13 +14159,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "074"
+        "idx": 614,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "74"
                 ]
-            ]
+            }
         ],
         "performer": "Herman\u2019s Hermits",
         "title": "No Milk Today (Herman\u2019s Hermits)"
@@ -13569,13 +14184,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 615,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "125"
                 ]
-            ]
+            }
         ],
         "performer": "Kom\u00e1r L\u00e1szl\u00f3",
         "title": "No Miss (\u2026\u00f3 nem, nem) (Kom\u00e1r L\u00e1szl\u00f3)"
@@ -13592,13 +14208,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 616,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "51"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Nowhere Man (The Beatles)"
@@ -13612,13 +14229,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 617,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "110"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Ny\u00e1r van (Neoton)"
@@ -13634,13 +14252,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "087"
+        "idx": 618,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "87"
                 ]
-            ]
+            }
         ],
         "performer": "Omega egy\u00fcttes",
         "title": "Ny\u00e1ri \u00e9jek asszonya (Omega egy\u00fcttes)"
@@ -13652,13 +14271,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "086"
+        "idx": 619,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "86"
                 ]
-            ]
+            }
         ],
         "performer": "\u00c1ll egy ifj\u00fa ny\u00edrfa a r\u00e9ten",
         "title": "Ny\u00edrf\u00e1cska (\u00c1ll egy ifj\u00fa ny\u00edrfa a r\u00e9ten)"
@@ -13671,20 +14291,21 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "071"
+        "idx": 620,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "71"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "21",
                     "26"
                 ]
-            ]
+            }
         ],
         "performer": "Beatrice",
         "title": "Nyolc \u00f3ra munka, nyolc \u00f3ra pihen\u00e9s (Beatrice)"
@@ -13697,13 +14318,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "057"
+        "idx": 621,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "57"
                 ]
-            ]
+            }
         ],
         "performer": "Szandi",
         "title": "Nyugi Doki (Szandi)"
@@ -13720,13 +14342,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 622,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "120"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "\u00d3, kisle\u00e1ny (Ill\u00e9s)"
@@ -13741,13 +14364,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 623,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "93"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Obladi Oblada (The Beatles)"
@@ -13761,13 +14385,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "056"
+        "idx": 624,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "56"
                 ]
-            ]
+            }
         ],
         "performer": "Neil Sedaka",
         "title": "Oh Carol (Neil Sedaka)"
@@ -13780,13 +14405,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "099"
+        "idx": 625,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "99"
                 ]
-            ]
+            }
         ],
         "performer": "Kom\u00e1r L\u00e1szl\u00f3",
         "title": "Oh, csak a hajnal j\u00f6nne m\u00e1r (Kom\u00e1r L\u00e1szl\u00f3)"
@@ -13803,13 +14429,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 626,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "128"
                 ]
-            ]
+            }
         ],
         "performer": "Express egy\u00fcttes-Solymos T\u00f3ni",
         "title": "Oh, egy kis cs\u00f3k (Express egy\u00fcttes-Solymos T\u00f3ni)"
@@ -13827,13 +14454,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "018"
+        "idx": 627,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "18"
                 ]
-            ]
+            }
         ],
         "performer": "Roy Orbison",
         "title": "Oh, Pretty Woman (Roy Orbison)"
@@ -13847,13 +14475,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 628,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "oh don\u2019t you cry for me",
         "title": "Oh, Susanna (\u2026oh don\u2019t you cry for me)"
@@ -13868,20 +14497,21 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "090"
+        "idx": 629,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "90"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "22",
                     "47"
                 ]
-            ]
+            }
         ],
         "performer": "The Banks Of The Ohio",
         "title": "Ohio \u2013 (The Banks Of The Ohio)"
@@ -13896,13 +14526,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "094"
+        "idx": 630,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "94"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Old Smokey"
@@ -13916,13 +14547,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "099"
+        "idx": 631,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "99"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Old Time Religion"
@@ -13939,13 +14571,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "053"
+        "idx": 632,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "53"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Oly j\u00f3l cs\u00faszik ez a ban\u00e1nh\u00e9j"
@@ -13959,13 +14592,14 @@ export const CHORDINFO = [
                 "G d"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 633,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "14"
                 ]
-            ]
+            }
         ],
         "performer": "Istv\u00e1n a kir\u00e1ly",
         "title": "Oly t\u00e1vol vagy t\u0151lem (Istv\u00e1n a kir\u00e1ly)"
@@ -13980,13 +14614,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "096"
+        "idx": 634,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "96"
                 ]
-            ]
+            }
         ],
         "performer": "Soml\u00f3 Tam\u00e1s",
         "title": "Olyan sz\u00e9pek voltunk (Soml\u00f3 Tam\u00e1s)"
@@ -14007,13 +14642,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 635,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "112"
                 ]
-            ]
+            }
         ],
         "performer": "The Platters",
         "title": "Only You (The Platters)"
@@ -14033,13 +14669,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "075"
+        "idx": 636,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "75"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Ott \u00e1llsz az \u00fat v\u00e9g\u00e9n (M\u00e1t\u00e9 P\u00e9ter)"
@@ -14056,13 +14693,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "078"
+        "idx": 637,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "78"
                 ]
-            ]
+            }
         ],
         "performer": "ahol senki se l\u00e1t",
         "title": "Ott fogsz majd s\u00edrni (\u2026ahol senki se l\u00e1t)"
@@ -14081,13 +14719,14 @@ export const CHORDINFO = [
                 "G9"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 638,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "148"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Over The Rainbow"
@@ -14111,13 +14750,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "084"
+        "idx": 639,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "84"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "\u0150 (She) (M\u00e1t\u00e9 P\u00e9ter)"
@@ -14133,13 +14773,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "096"
+        "idx": 640,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "96"
                 ]
-            ]
+            }
         ],
         "performer": "Tankcsapda",
         "title": "\u00d6r\u00f6kk\u00e9 tart (Tankcsapda)"
@@ -14153,13 +14794,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "007"
+        "idx": 641,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "7"
                 ]
-            ]
+            }
         ],
         "performer": "Ludwig van Beethoven-Friedrich Schiller",
         "title": "\u00d6r\u00f6m\u00f3da (Ludwig van Beethoven-Friedrich Schiller)"
@@ -14175,13 +14817,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "060"
+        "idx": 642,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "60"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "\u0150szinte boh\u00f3c (Koncz Zsuzsa)"
@@ -14197,13 +14840,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "055"
+        "idx": 643,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "55"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "P\u00e1, kis aranyom, p\u00e1"
@@ -14219,20 +14863,21 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "034"
+        "idx": 644,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "34"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "33",
                     "49"
                 ]
-            ]
+            }
         ],
         "performer": "Puff The Magic\u2026",
         "title": "Paff a b\u0171v\u00f6s s\u00e1rk\u00e1ny (Puff The Magic\u2026)"
@@ -14249,13 +14894,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 645,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "134"
                 ]
-            ]
+            }
         ],
         "performer": "Magna Cum Laude",
         "title": "P\u00e1linka dal (Magna Cum Laude)"
@@ -14269,13 +14915,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "054"
+        "idx": 646,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "lakik a Katica",
         "title": "Paplak mellett (\u2026lakik a Katica)"
@@ -14290,13 +14937,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 647,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "132"
                 ]
-            ]
+            }
         ],
         "performer": "Horv\u00e1th Tivadar",
         "title": "P\u00e1rizsban sz\u00e9p a ny\u00e1r (Horv\u00e1th Tivadar)"
@@ -14313,13 +14961,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "044"
+        "idx": 648,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "44"
                 ]
-            ]
+            }
         ],
         "performer": "\u00f6rvendezve",
         "title": "P\u00e1sztorok, p\u00e1sztorok (\u00f6rvendezve)"
@@ -14334,13 +14983,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "085"
+        "idx": 649,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "85"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Pedro kocsm\u00e1j\u00e1ban"
@@ -14355,13 +15005,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "086"
+        "idx": 650,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "86"
                 ]
-            ]
+            }
         ],
         "performer": "Omega",
         "title": "Petr\u00f3leuml\u00e1mpa (Omega)"
@@ -14374,13 +15025,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "077"
+        "idx": 651,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "77"
                 ]
-            ]
+            }
         ],
         "performer": "nem s\u00e1rga",
         "title": "Piros volt a paradicsom (\u2026nem s\u00e1rga)"
@@ -14393,13 +15045,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 652,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "157"
                 ]
-            ]
+            }
         ],
         "performer": "Tak\u00e1ts Tam\u00e1s Dirty Blues B.",
         "title": "Pocsoly\u00e1ba l\u00e9ptem (Tak\u00e1ts Tam\u00e1s Dirty Blues B.)"
@@ -14416,13 +15069,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "026"
+        "idx": 653,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "26"
                 ]
-            ]
+            }
         ],
         "performer": "Aradszky L\u00e1szl\u00f3",
         "title": "P\u00f3kh\u00e1l\u00f3 az ablakon (Aradszky L\u00e1szl\u00f3)"
@@ -14436,13 +15090,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "084"
+        "idx": 654,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "84"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Poljuska"
@@ -14456,13 +15111,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "063"
+        "idx": 655,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "63"
                 ]
-            ]
+            }
         ],
         "performer": "Sprint \u2013 Kom\u00e1r",
         "title": "Postakocsi (Sprint \u2013 Kom\u00e1r)"
@@ -14481,13 +15137,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "065"
+        "idx": 656,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "65"
                 ]
-            ]
+            }
         ],
         "performer": "Hofi G\u00e9za",
         "title": "Pr\u00f3b\u00e1lj meg laz\u00edtani (Hofi G\u00e9za)"
@@ -14503,13 +15160,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "058"
+        "idx": 657,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "58"
                 ]
-            ]
+            }
         ],
         "performer": "Creedence Clearwater Revival",
         "title": "Proud Mary (Creedence Clearwater Revival)"
@@ -14524,13 +15182,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "054"
+        "idx": 658,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "katonadal",
         "title": "Puska dal (katonadal)"
@@ -14545,13 +15204,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 659,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "139"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Railroad Bill"
@@ -14565,13 +15225,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 660,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "109"
                 ]
-            ]
+            }
         ],
         "performer": "UB40",
         "title": "Red Red Wine (UB40)"
@@ -14585,14 +15246,15 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 661,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "39",
                     "43"
                 ]
-            ]
+            }
         ],
         "performer": "Omega",
         "title": "R\u00e9gi csib\u00e9szek (Omega)"
@@ -14608,13 +15270,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "099"
+        "idx": 662,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "99"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy-Koncz",
         "title": "R\u00e9gi dal (Egy r\u00e9gi k\u00e9p, egy kisgyerek)(Br\u00f3dy-Koncz)"
@@ -14630,13 +15293,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 663,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "Auld Lang Syne",
         "title": "R\u00e9gi-r\u00e9gi dal (Auld Lang Syne)"
@@ -14651,19 +15315,20 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 664,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "106"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "76"
                 ]
-            ]
+            }
         ],
         "performer": "Seb\u0151 Ferenc",
         "title": "Rejtelmek (ha zengenek) (Seb\u0151 Ferenc)"
@@ -14677,13 +15342,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 665,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "113"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Rep\u00fcl a b\u00e1lna (Republic)"
@@ -14701,13 +15367,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "090"
+        "idx": 666,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "90"
                 ]
-            ]
+            }
         ],
         "performer": "Karthago",
         "title": "Requiem (Karthago)"
@@ -14724,13 +15391,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "010"
+        "idx": 667,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "10"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Reszket a hold (a t\u00f3 viz\u00e9n)"
@@ -14743,13 +15411,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "058"
+        "idx": 668,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "58"
                 ]
-            ]
+            }
         ],
         "performer": "Johnny Cash",
         "title": "Ring Of Fire (Johnny Cash)"
@@ -14764,13 +15433,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 669,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "135"
                 ]
-            ]
+            }
         ],
         "performer": "Hung\u00e1ria",
         "title": "Rock and roll party (Hung\u00e1ria)"
@@ -14784,13 +15454,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 670,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "163"
                 ]
-            ]
+            }
         ],
         "performer": "Bill Haley",
         "title": "Rock Around The Clock (Bill Haley)"
@@ -14806,13 +15477,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "066"
+        "idx": 671,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "66"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Rohan az id\u0151 (Koncz Zsuzsa)"
@@ -14827,13 +15499,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 672,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "32"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Romantika (Zor\u00e1n)"
@@ -14848,13 +15521,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 673,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "156"
                 ]
-            ]
+            }
         ],
         "performer": "De\u00e1k Bill Gyula",
         "title": "Rossz v\u00e9r (De\u00e1k Bill Gyula)"
@@ -14869,14 +15543,15 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 674,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "34",
                     "43"
                 ]
-            ]
+            }
         ],
         "performer": "Rod Stewart",
         "title": "Sailing (Rod Stewart)"
@@ -14892,13 +15567,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "069"
+        "idx": 675,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "69"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy",
         "title": "Sajtb\u00f3l van a Hold (Bergendy)"
@@ -14914,13 +15590,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 676,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "152"
                 ]
-            ]
+            }
         ],
         "performer": "John Phillips",
         "title": "San Francisco (John Phillips)"
@@ -14934,13 +15611,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 677,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "111"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Santa Maria (Neoton)"
@@ -14955,20 +15633,21 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "022"
+        "idx": 678,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "22"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "52",
                     "89"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s - Br\u00f3dy szerz",
         "title": "S\u00e1rika (egy kicsik\u00e9t but\u00e1cska) (Ill\u00e9s - Br\u00f3dy szerz.)"
@@ -14983,15 +15662,16 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 679,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "80",
                     "81",
                     "117"
                 ]
-            ]
+            }
         ],
         "performer": "Simon & Gerfunkel",
         "title": "Scarborough Fair (Simon & Gerfunkel)"
@@ -15007,13 +15687,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 680,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "145"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Se veled, se n\u00e9lk\u00fcled (\u2026\u00e9lni nem tudok)"
@@ -15026,13 +15707,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "071"
+        "idx": 681,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "71"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "Sehallsel\u00e1t D\u00f6m\u00f6t\u00f6r (Hal\u00e1sz Jutka)"
@@ -15048,13 +15730,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "052"
+        "idx": 682,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "52"
                 ]
-            ]
+            }
         ],
         "performer": "vas\u00e1rnap kir\u00e1ndulunk",
         "title": "Sej, haj Rozi (\u2026vas\u00e1rnap kir\u00e1ndulunk)"
@@ -15071,13 +15754,14 @@ export const CHORDINFO = [
                 "Cm"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 683,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "154"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "She Loves You (The Beatles)"
@@ -15092,13 +15776,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "091"
+        "idx": 684,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "91"
                 ]
-            ]
+            }
         ],
         "performer": "Hern\u00e1di Judit",
         "title": "Sohase mondd (Hern\u00e1di Judit)"
@@ -15112,13 +15797,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 685,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "140"
                 ]
-            ]
+            }
         ],
         "performer": "Happy Gang",
         "title": "Sok\u00e1ig voltam t\u00e1vol (Happy Gang)"
@@ -15137,13 +15823,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 686,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "107"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "SOS (ABBA)"
@@ -15158,13 +15845,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "054"
+        "idx": 687,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "54"
                 ]
-            ]
+            }
         ],
         "performer": "Homonyik S\u00e1ndor",
         "title": "Sose b\u00facs\u00fazz el (Homonyik S\u00e1ndor)"
@@ -15180,7 +15868,8 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [],
+        "idx": 688,
+        "pagerefs": [],
         "performer": "Harangoz\u00f3 Teri",
         "title": "Sose f\u00e1jjon a fejed (Harangoz\u00f3 Teri)"
     },
@@ -15194,13 +15883,14 @@ export const CHORDINFO = [
                 "C7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 689,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "100"
                 ]
-            ]
+            }
         ],
         "performer": "Pat Boone",
         "title": "Speedy Gonzales (Pat Boone)"
@@ -15215,13 +15905,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 690,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "100"
                 ]
-            ]
+            }
         ],
         "performer": "The Yardbirds",
         "title": "Still I'm Sad (The Yardbirds)"
@@ -15234,13 +15925,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "059"
+        "idx": 691,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "59"
                 ]
-            ]
+            }
         ],
         "performer": "Nancy Sinatra & Lee Hazlewood",
         "title": "Summer Wine (Nancy Sinatra & Lee Hazlewood)"
@@ -15255,13 +15947,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "027"
+        "idx": 692,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "27"
                 ]
-            ]
+            }
         ],
         "performer": "G.Gershwin-DuBose Heyward",
         "title": "Summertime (G.Gershwin-DuBose Heyward)"
@@ -15277,13 +15970,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 693,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "106"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Super Trouper (ABBA)"
@@ -15299,13 +15993,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "083"
+        "idx": 694,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "83"
                 ]
-            ]
+            }
         ],
         "performer": "Csinibaba mozi",
         "title": "Su-su bolonds\u00e1g (Csinibaba mozi)"
@@ -15319,13 +16014,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "074"
+        "idx": 695,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "74"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "S\u0171r\u0171n esik az es\u0151"
@@ -15341,13 +16037,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 696,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "174"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy Istv\u00e1n-Csuk\u00e1s I.",
         "title": "S\u00fcs\u00fc, a s\u00e1rk\u00e1ny (Bergendy Istv\u00e1n-Csuk\u00e1s I.)"
@@ -15361,13 +16058,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 697,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "159"
                 ]
-            ]
+            }
         ],
         "performer": "The Eurythmics",
         "title": "Sweet Dreams (The Eurythmics)"
@@ -15382,13 +16080,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 698,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "164"
                 ]
-            ]
+            }
         ],
         "performer": "Robert Johnson - The Blues Brothers",
         "title": "Sweet Home Chicago (Robert Johnson - The Blues Brothers)"
@@ -15404,13 +16103,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 699,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "97"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Swing Low Sweet Chariot"
@@ -15428,13 +16128,14 @@ export const CHORDINFO = [
                 "Em7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 700,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "118"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz - Br\u00f3dy",
         "title": "Szabadnak sz\u00fclett\u00e9l (Koncz - Br\u00f3dy)"
@@ -15451,13 +16152,14 @@ export const CHORDINFO = [
                 "A4"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 701,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "130"
                 ]
-            ]
+            }
         ],
         "performer": "Hooligans",
         "title": "Szabadon \u00e9lek (Hooligans)"
@@ -15472,13 +16174,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 702,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "143"
                 ]
-            ]
+            }
         ],
         "performer": "Pa-D\u00f6-D\u0151",
         "title": "Szab\u00f3 J\u00e1nos (Pa-D\u00f6-D\u0151)"
@@ -15495,13 +16198,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "080"
+        "idx": 703,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "80"
                 ]
-            ]
+            }
         ],
         "performer": "Cserh\u00e1ti Zsuzsa",
         "title": "Sz\u00e1guld\u00e1s, Porsche, szerelem (Cserh\u00e1ti Zsuzsa)"
@@ -15515,19 +16219,20 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 704,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "127"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "105"
                 ]
-            ]
+            }
         ],
         "performer": "Kisteh\u00e9n",
         "title": "Sz\u00e1jber gyerek (Kisteh\u00e9n)"
@@ -15542,19 +16247,20 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "009"
+        "idx": 705,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "9"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "111"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Sz\u00e1llj el kismad\u00e1r (Republic)"
@@ -15571,13 +16277,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 706,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "130 jobb"
                 ]
-            ]
+            }
         ],
         "performer": "Piramis",
         "title": "Sz\u00e1llj fel magasra (Piramis)"
@@ -15598,13 +16305,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "015"
+        "idx": 707,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "15"
                 ]
-            ]
+            }
         ],
         "performer": "Istv\u00e1n a kir\u00e1ly",
         "title": "Sz\u00e1llj fel szabad mad\u00e1r (Istv\u00e1n a kir\u00e1ly)"
@@ -15620,13 +16328,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "043"
+        "idx": 708,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "43"
                 ]
-            ]
+            }
         ],
         "performer": "Honfoglal\u00e1s",
         "title": "Sz\u00e1llj s\u00f3lyom sz\u00e1rny\u00e1n (Honfoglal\u00e1s) "
@@ -15642,13 +16351,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 709,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "153"
                 ]
-            ]
+            }
         ],
         "performer": "Napoleon Boulevard",
         "title": "Sz\u00e1llj velem (Napoleon Boulevard)"
@@ -15665,13 +16375,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 710,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "141"
                 ]
-            ]
+            }
         ],
         "performer": "Solymos T\u00f3ni",
         "title": "Sz\u00e1llj,sz\u00e1llj mad\u00e1r (Solymos T\u00f3ni)"
@@ -15686,13 +16397,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "093"
+        "idx": 711,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "93"
                 ]
-            ]
+            }
         ],
         "performer": "Vas Zolt\u00e1n",
         "title": "Szalmonella blues (Vas Zolt\u00e1n)"
@@ -15705,13 +16417,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "023"
+        "idx": 712,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "23"
                 ]
-            ]
+            }
         ],
         "performer": "Nem volt a Sz\u00e1sa egy moszkvai nagy d\u00e1ma\u2026",
         "title": "Sz\u00e1sa (Nem volt a Sz\u00e1sa egy moszkvai nagy d\u00e1ma\u2026)"
@@ -15728,13 +16441,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 713,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "137"
                 ]
-            ]
+            }
         ],
         "performer": "Gener\u00e1l egy\u00fcttes",
         "title": "Sz\u00e1z\u00e9ves k\u00fat (Gener\u00e1l egy\u00fcttes)"
@@ -15749,13 +16463,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 714,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "119"
                 ]
-            ]
+            }
         ],
         "performer": "Gerend\u00e1s P\u00e9ter",
         "title": "Sz\u00e1z\u00e9ves p\u00e1lyaudvar (Gerend\u00e1s P\u00e9ter)"
@@ -15770,13 +16485,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 715,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "110"
                 ]
-            ]
+            }
         ],
         "performer": "Hal\u00e1sz Jutka",
         "title": "Sz\u00e9l hozott, sz\u00e9l visz el (Hal\u00e1sz Jutka)"
@@ -15791,13 +16507,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "035"
+        "idx": 716,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "35"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Sz\u00e9l z\u00fag a Dnyeper t\u00e1j\u00e1n"
@@ -15813,13 +16530,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "010"
+        "idx": 717,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "10"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy egy\u00fcttes",
         "title": "Szellemvas\u00fat (Bergendy egy\u00fcttes)"
@@ -15836,13 +16554,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "040"
+        "idx": 718,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "40"
                 ]
-            ]
+            }
         ],
         "performer": "Br\u00f3dy J\u00e1nos",
         "title": "Szem\u00e9lyi igazolv\u00e1ny (Br\u00f3dy J\u00e1nos)"
@@ -15857,13 +16576,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 719,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "118"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "Szem\u00e9tdomb (Ill\u00e9s)"
@@ -15878,13 +16598,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "081"
+        "idx": 720,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "81"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "Sz\u00e9p holnap (Why Worry) (Dire Straits - Zor\u00e1n)"
@@ -15904,13 +16625,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "098"
+        "idx": 721,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "98"
                 ]
-            ]
+            }
         ],
         "performer": "Gerend\u00e1s P\u00e9ter",
         "title": "Sz\u00e9p J\u00falia (Gerend\u00e1s P\u00e9ter)"
@@ -15939,13 +16661,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 722,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "130"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "Szerelem els\u0151 v\u00e9rig (Demj\u00e9n Ferenc)"
@@ -15963,20 +16686,21 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "030"
+        "idx": 723,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "30"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "53",
                     "89"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n Ferenc",
         "title": "Szerelemvonat (Demj\u00e9n Ferenc)"
@@ -15991,13 +16715,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 724,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "164"
                 ]
-            ]
+            }
         ],
         "performer": "L\u2019art pour l\u2019art",
         "title": "Szerelmi vallom\u00e1s (L\u2019art pour l\u2019art)"
@@ -16015,13 +16740,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 725,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "129"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Szeress \u00fagy is, ha rossz vagyok"
@@ -16037,13 +16763,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 726,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "133"
                 ]
-            ]
+            }
         ],
         "performer": "R. Go",
         "title": "Szeretlek is meg nem is (R. Go)"
@@ -16060,13 +16787,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "021"
+        "idx": 727,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "21"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Szeretni kell, ennyi az eg\u00e9sz"
@@ -16080,20 +16808,21 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 728,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "115"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "43",
                     "47"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Szeretni valakit valami\u00e9rt (Republic)"
@@ -16111,13 +16840,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 729,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "150"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s \u2013 Koncz Zsuzsa",
         "title": "Sz\u00ednes ceruz\u00e1k (Ill\u00e9s \u2013 Koncz Zsuzsa)"
@@ -16135,13 +16865,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "079"
+        "idx": 730,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "79"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Sz\u00edvemben bomba van"
@@ -16155,13 +16886,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "044"
+        "idx": 731,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "44"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Sz\u00f3l a kakas m\u00e1r"
@@ -16176,13 +16908,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 732,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "131 bal"
                 ]
-            ]
+            }
         ],
         "performer": "Solt\u00e9sz Rezs\u0151",
         "title": "Sz\u00f3ljon hangosan az \u00e9nek (Solt\u00e9sz Rezs\u0151)"
@@ -16196,13 +16929,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "051"
+        "idx": 733,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "51"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Szomor\u00fa vas\u00e1rnap"
@@ -16219,13 +16953,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "091"
+        "idx": 734,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "91"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Szovjet himnusz"
@@ -16244,13 +16979,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "019"
+        "idx": 735,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "19"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s \u2013 Koncz Zs.",
         "title": "Sz\u0151ke Anni ballad\u00e1ja (Ill\u00e9s \u2013 Koncz Zs.)"
@@ -16269,13 +17005,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "071"
+        "idx": 736,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "71"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Sz\u00fclet\u00e9snapi k\u00edv\u00e1ns\u00e1g (\u201e\u00e9n egy kis\u00f6csit k\u00e9rek...\u201d)"
@@ -16293,13 +17030,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 737,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "157"
                 ]
-            ]
+            }
         ],
         "performer": "Emberek",
         "title": "T\u00e1bort\u0171z (Emberek)"
@@ -16314,13 +17052,14 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "087"
+        "idx": 738,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "87"
                 ]
-            ]
+            }
         ],
         "performer": "John Denver",
         "title": "Take Me Home Country Roads (John Denver)"
@@ -16339,13 +17078,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "059"
+        "idx": 739,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "59"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Tal\u00e1lkoz\u00e1s egy r\u00e9gi szerelemmel"
@@ -16360,13 +17100,14 @@ export const CHORDINFO = [
                 "Eb"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "014"
+        "idx": 740,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "14"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "T\u00e1skar\u00e1di\u00f3 (Ill\u00e9s)"
@@ -16381,20 +17122,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 741,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "107"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "35",
                     "139"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Tavaszi sz\u00e9l vizet \u00e1raszt"
@@ -16407,13 +17149,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "021"
+        "idx": 742,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "21"
                 ]
-            ]
+            }
         ],
         "performer": "Sz\u00e9csi P\u00e1l",
         "title": "T\u00e1voll\u00e9t (Sz\u00e9csi P\u00e1l)"
@@ -16428,13 +17171,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "009"
+        "idx": 743,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "9"
                 ]
-            ]
+            }
         ],
         "performer": "Bergendy egy\u00fcttes",
         "title": "Te is j\u00e1rsz n\u00e9ha tilosban (Bergendy egy\u00fcttes)"
@@ -16448,7 +17192,8 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [],
+        "idx": 744,
+        "pagerefs": [],
         "performer": "Ill\u00e9s egy\u00fcttes-Istv\u00e1n a kir\u00e1ly",
         "title": "Te kit v\u00e1lasztan\u00e1l (Ill\u00e9s egy\u00fcttes-Istv\u00e1n a kir\u00e1ly)"
     },
@@ -16462,13 +17207,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "050"
+        "idx": 745,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "50"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Te rongyos \u00e9let"
@@ -16485,13 +17231,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 746,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "117"
                 ]
-            ]
+            }
         ],
         "performer": "Csinibaba mozi",
         "title": "Te szeress legal\u00e1bb (Csinibaba mozi)"
@@ -16505,13 +17252,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 747,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "167"
                 ]
-            ]
+            }
         ],
         "performer": "Crosby Stills Nash & Young",
         "title": "Teach Your Children (Crosby Stills Nash & Young)"
@@ -16529,13 +17277,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 748,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "151"
                 ]
-            ]
+            }
         ],
         "performer": "Eric Clapton",
         "title": "Tears In Heaven (Eric Clapton)"
@@ -16552,13 +17301,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "072"
+        "idx": 749,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "72"
                 ]
-            ]
+            }
         ],
         "performer": "Volga, m\u00e1ty r\u00e1dn\u00e1j\u00e1",
         "title": "The Carneval Is Over \u2013 (Volga, m\u00e1ty r\u00e1dn\u00e1j\u00e1)"
@@ -16574,13 +17324,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "020"
+        "idx": 750,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "20"
                 ]
-            ]
+            }
         ],
         "performer": "Platters \u2013 The Queen",
         "title": "The Great Pretender (Platters \u2013 The Queen)"
@@ -16595,20 +17346,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "066"
+        "idx": 751,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "66"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "59",
                     "80"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "The House Of The Rising Sun"
@@ -16626,20 +17378,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "035"
+        "idx": 752,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "35"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "20",
                     "27"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "The Lion Sleeps Tonight"
@@ -16655,13 +17408,14 @@ export const CHORDINFO = [
                 "Fm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 753,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "121"
                 ]
-            ]
+            }
         ],
         "performer": "David Bowie \u2013 Nirvana",
         "title": "The Man Who Sold The World (David Bowie \u2013 Nirvana)"
@@ -16674,13 +17428,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 754,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "139"
                 ]
-            ]
+            }
         ],
         "performer": "Boney M.",
         "title": "The Rivers Of Babylon (Boney M.)"
@@ -16694,14 +17449,15 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 755,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "60",
                     "87"
                 ]
-            ]
+            }
         ],
         "performer": "Simon & Garfunkel",
         "title": "The Sound Of Silence (Simon & Garfunkel)"
@@ -16715,13 +17471,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "055"
+        "idx": 756,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "55"
                 ]
-            ]
+            }
         ],
         "performer": "Cliff Richard",
         "title": "The Young Ones (Cliff Richard)"
@@ -16737,13 +17494,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "093"
+        "idx": 757,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "93"
                 ]
-            ]
+            }
         ],
         "performer": "Woody Guthrie",
         "title": "This Land Is Your Land (Woody Guthrie)"
@@ -16759,13 +17517,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "056"
+        "idx": 758,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "56"
                 ]
-            ]
+            }
         ],
         "performer": "M. Faithful-Nashville Teens",
         "title": "This Little Bird (M. Faithful-Nashville Teens)"
@@ -16782,13 +17541,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 759,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "164"
                 ]
-            ]
+            }
         ],
         "performer": "Mary Hopkin",
         "title": "Those Were The Days (Azok a sz\u00e9p napok) (Mary Hopkin)"
@@ -16805,13 +17565,14 @@ export const CHORDINFO = [
                 "Em7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 760,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "120"
                 ]
-            ]
+            }
         ],
         "performer": "E\u00f6rd\u00f6gh Alexa-Cs\u00e1sz\u00e1r El\u0151d",
         "title": "Tiltott szerelem (E\u00f6rd\u00f6gh Alexa-Cs\u00e1sz\u00e1r El\u0151d)"
@@ -16826,13 +17587,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "092"
+        "idx": 761,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "92"
                 ]
-            ]
+            }
         ],
         "performer": "Dinamit",
         "title": "Tin\u00e9dzser dal (Dinamit)"
@@ -16847,13 +17609,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "040"
+        "idx": 762,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "40"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Tini dal (Neoton)"
@@ -16870,13 +17633,14 @@ export const CHORDINFO = [
                 "E4"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "022"
+        "idx": 763,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "22"
                 ]
-            ]
+            }
         ],
         "performer": "Bojtorj\u00e1n",
         "title": "Tizenhat \u00e9ves (Bojtorj\u00e1n)"
@@ -16890,20 +17654,21 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "096"
+        "idx": 764,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "96"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "61",
                     "95"
                 ]
-            ]
+            }
         ],
         "performer": "Sixteen Tons",
         "title": "Tizenhat tonna (Sixteen Tons)"
@@ -16919,13 +17684,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 765,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "160"
                 ]
-            ]
+            }
         ],
         "performer": "Mr. Big",
         "title": "To Be With You (Mr. Big)"
@@ -16940,13 +17706,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 766,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "126"
                 ]
-            ]
+            }
         ],
         "performer": "Zalatnay Sarolta",
         "title": "T\u00f6lcs\u00e9rt csin\u00e1lok a kezemb\u0151l (Zalatnay Sarolta)"
@@ -16960,13 +17727,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "088"
+        "idx": 767,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "88"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "T\u00f6rd a ker\u00edt\u00e9st (\u2026a falakat \u00e1t)"
@@ -16981,13 +17749,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 768,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "135"
                 ]
-            ]
+            }
         ],
         "performer": "Gener\u00e1l egy\u00fcttes",
         "title": "T\u00f6r\u00f6km\u00e9z (Gener\u00e1l egy\u00fcttes)"
@@ -17004,7 +17773,8 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [],
+        "idx": 769,
+        "pagerefs": [],
         "performer": "Ill\u00e9s",
         "title": "T\u00f6rt\u00e9net M.-r\u0151l (Ill\u00e9s)"
     },
@@ -17017,13 +17787,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "084"
+        "idx": 770,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "84"
                 ]
-            ]
+            }
         ],
         "performer": "Omega",
         "title": "Trombit\u00e1s Fr\u00e9di (Omega)"
@@ -17039,13 +17810,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 771,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "112"
                 ]
-            ]
+            }
         ],
         "performer": "Radv\u00e1nyi Bal\u00e1zs \u2013 Kal\u00e1ka",
         "title": "Tudod, hogy nincs bocs\u00e1nat (Radv\u00e1nyi Bal\u00e1zs \u2013 Kal\u00e1ka) "
@@ -17060,13 +17832,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "076"
+        "idx": 772,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "76"
                 ]
-            ]
+            }
         ],
         "performer": "The Byrds-Pete Seeger",
         "title": "Turn Turn Turn (The Byrds-Pete Seeger)"
@@ -17083,13 +17856,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 773,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "91"
                 ]
-            ]
+            }
         ],
         "performer": "Little Richard",
         "title": "Tutti Frutti (Little Richard)"
@@ -17103,13 +17877,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 774,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "147"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Twist In My Sobriety"
@@ -17131,13 +17906,14 @@ export const CHORDINFO = [
                 "Cm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "058"
+        "idx": 775,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "58"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "\u00dagy szeretn\u00e9m megh\u00e1l\u00e1lni "
@@ -17154,13 +17930,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 776,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "128"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "\u00dagy v\u00e1rom, j\u00f6ssz-e m\u00e1r (M\u00e1t\u00e9 P\u00e9ter)"
@@ -17176,13 +17953,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 777,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "156"
                 ]
-            ]
+            }
         ],
         "performer": "Tolcsvay\u00e9k \u2013 Koncz Zsuzsa",
         "title": "\u00daj dal (Tolcsvay\u00e9k \u2013 Koncz Zsuzsa)"
@@ -17195,20 +17973,21 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "006"
+        "idx": 778,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "6"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "22",
                     "27"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s",
         "title": "\u00dajra itt van (a nagy csapat) (Ill\u00e9s)"
@@ -17220,13 +17999,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "051"
+        "idx": 779,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "51"
                 ]
-            ]
+            }
         ],
         "performer": "Gerilla egy\u00fcttes",
         "title": "Umbl\u00e1v tupenye (Gerilla egy\u00fcttes)"
@@ -17243,13 +18023,14 @@ export const CHORDINFO = [
                 "D#"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 780,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "147"
                 ]
-            ]
+            }
         ],
         "performer": "The Righteous Brothers",
         "title": "Unchained Melody (The Righteous Brothers)"
@@ -17265,13 +18046,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "036"
+        "idx": 781,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "36"
                 ]
-            ]
+            }
         ],
         "performer": "Bojtorj\u00e1n",
         "title": "\u00daton vagyok (Bojtorj\u00e1n)"
@@ -17287,13 +18069,14 @@ export const CHORDINFO = [
                 "B"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 782,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "141"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "\u00dcnnep (Zor\u00e1n)"
@@ -17312,13 +18095,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "094"
+        "idx": 783,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "94"
                 ]
-            ]
+            }
         ],
         "performer": "Zor\u00e1n",
         "title": "\u00dcres b\u00f6lcs\u0151t ringat a hold f\u00e9nye (Zor\u00e1n)"
@@ -17334,13 +18118,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "046"
+        "idx": 784,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "46"
                 ]
-            ]
+            }
         ],
         "performer": "Dolly Roll",
         "title": "Vak\u00e1ci\u00f3 (Dolly Roll)"
@@ -17356,20 +18141,21 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "019"
+        "idx": 785,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "19"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "50",
                     "77"
                 ]
-            ]
+            }
         ],
         "performer": "h\u00f3feh\u00e9rben j\u00e1r",
         "title": "Valahol egy l\u00e1ny (h\u00f3feh\u00e9rben j\u00e1r) (Koncz Zsuzsa)"
@@ -17387,13 +18173,14 @@ export const CHORDINFO = [
                 "F#m"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "008"
+        "idx": 786,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "8"
                 ]
-            ]
+            }
         ],
         "performer": "D\u00e9s L\u00e1szl\u00f3-Nemes Istv\u00e1n",
         "title": "Valahol Eur\u00f3p\u00e1ban (D\u00e9s L\u00e1szl\u00f3-Nemes Istv\u00e1n)"
@@ -17407,13 +18194,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 787,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "132"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s \u2013 Koncz Zsuzsa",
         "title": "Valaki kell hogy szeressen (Ill\u00e9s \u2013 Koncz Zsuzsa)"
@@ -17429,13 +18217,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "089"
+        "idx": 788,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "89"
                 ]
-            ]
+            }
         ],
         "performer": "K\u00e9pzelt riport",
         "title": "Valaki mondja meg (K\u00e9pzelt riport)"
@@ -17450,13 +18239,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 789,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "128"
                 ]
-            ]
+            }
         ],
         "performer": "Bon Bon",
         "title": "Valami Amerika (Bon Bon)"
@@ -17472,13 +18262,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 790,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "143"
                 ]
-            ]
+            }
         ],
         "performer": "Szigeti Ferenc \u2013 Szil\u00e1gyi J\u00e1nos",
         "title": "Van olyan ember (Szigeti Ferenc \u2013 Szil\u00e1gyi J\u00e1nos)"
@@ -17495,13 +18286,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 791,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "109"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "V\u00e1ndor\u00e9nek (Sz\u00e9p ny\u00e1ri nap) (Neoton)"
@@ -17517,13 +18309,14 @@ export const CHORDINFO = [
                 "F#7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 792,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "145"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "V\u00e1ndorl\u00e1s a hossz\u00fa \u00faton (Neoton)"
@@ -17539,13 +18332,14 @@ export const CHORDINFO = [
                 "A0"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 793,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "114"
                 ]
-            ]
+            }
         ],
         "performer": "Republic",
         "title": "Var\u00e1zsolj a sz\u00edvemmel (Republic)"
@@ -17562,13 +18356,14 @@ export const CHORDINFO = [
                 "C"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 794,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "137"
                 ]
-            ]
+            }
         ],
         "performer": "Darvas Iv\u00e1n",
         "title": "V\u00e1rj re\u00e1m \u2013 Zsgyi miny\u00e1 \u2026 (Darvas Iv\u00e1n)"
@@ -17587,13 +18382,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "011"
+        "idx": 795,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "11"
                 ]
-            ]
+            }
         ],
         "performer": "Demj\u00e9n",
         "title": "V\u00e1rj, m\u00edg felkel majd a Nap (Demj\u00e9n)"
@@ -17609,13 +18405,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 796,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "136"
                 ]
-            ]
+            }
         ],
         "performer": "Feny\u0151 Mikl\u00f3s",
         "title": "V\u00e1rni r\u00e1d egy \u00e9jen \u00e1t (Feny\u0151 Mikl\u00f3s)"
@@ -17629,13 +18426,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 797,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "109"
                 ]
-            ]
+            }
         ],
         "performer": "Ront\u00e1sa t\u00f6rt r\u00e1nk a d\u00fal\u00f3 viharnak",
         "title": "Varsavianka (Ront\u00e1sa t\u00f6rt r\u00e1nk a d\u00fal\u00f3 viharnak)"
@@ -17657,13 +18455,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "032"
+        "idx": 798,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "32"
                 ]
-            ]
+            }
         ],
         "performer": "Juventus",
         "title": "V\u00e9get \u00e9rt egy fejezet (Juventus)"
@@ -17679,13 +18478,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 799,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "102"
                 ]
-            ]
+            }
         ],
         "performer": "Udvaros Dorottya",
         "title": "Vetk\u0151z\u00e9s (Udvaros Dorottya)"
@@ -17698,19 +18498,20 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 800,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "103"
                 ]
-            ],
-            [
-                "G",
-                [
+            },
+            {
+                "book": "G",
+                "pages": [
                     "30"
                 ]
-            ]
+            }
         ],
         "performer": "Fonogr\u00e1f",
         "title": "Vid\u00e9ki kisl\u00e1ny (mondd csak mit hiszel) (Fonogr\u00e1f)"
@@ -17725,13 +18526,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 801,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "165"
                 ]
-            ]
+            }
         ],
         "performer": "Magna Cum Laude",
         "title": "Vid\u00e9ki sanzon (Magna Cum Laude)"
@@ -17749,13 +18551,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "082"
+        "idx": 802,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "82"
                 ]
-            ]
+            }
         ],
         "performer": "Bojtorj\u00e1n",
         "title": "Vigy\u00e1zz magadra, fiam (Bojtorj\u00e1n)"
@@ -17770,13 +18573,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 803,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "115"
                 ]
-            ]
+            }
         ],
         "performer": "D\u00e9s L\u00e1szl\u00f3",
         "title": "Vigy\u00e1zz r\u00e1m (D\u00e9s L\u00e1szl\u00f3)"
@@ -17798,13 +18602,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "063"
+        "idx": 804,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "63"
                 ]
-            ]
+            }
         ],
         "performer": "Katona Kl\u00e1ri",
         "title": "Vigy\u00e9l el (Katona Kl\u00e1ri)"
@@ -17817,13 +18622,14 @@ export const CHORDINFO = [
                 "A"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "062"
+        "idx": 805,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "62"
                 ]
-            ]
+            }
         ],
         "performer": "K\u00e9pzelt riport",
         "title": "Vinn\u00e9lek, vinn\u00e9lek (K\u00e9pzelt riport)"
@@ -17840,13 +18646,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 806,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "123"
                 ]
-            ]
+            }
         ],
         "performer": "Ill\u00e9s egy\u00fcttes",
         "title": "Vir\u00e1g\u00e9nek (Ill\u00e9s egy\u00fcttes)"
@@ -17866,13 +18673,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "082"
+        "idx": 807,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "82"
                 ]
-            ]
+            }
         ],
         "performer": "Cohen \u2013 Zor\u00e1n",
         "title": "Volt egy t\u00e1nc (Cohen \u2013 Zor\u00e1n)"
@@ -17888,13 +18696,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "012"
+        "idx": 808,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "12"
                 ]
-            ]
+            }
         ],
         "performer": "Koncz Zsuzsa",
         "title": "Volt egyszer egy l\u00e1ny (Koncz Zsuzsa)"
@@ -17907,13 +18716,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 809,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "103"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Volt egyszer r\u00e9g"
@@ -17930,13 +18740,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 810,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "146"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Vuk \u2013 dal"
@@ -17949,13 +18760,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "036"
+        "idx": 811,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "36"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Waltzing Matilda"
@@ -17970,13 +18782,14 @@ export const CHORDINFO = [
                 "Am"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "073"
+        "idx": 812,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "73"
                 ]
-            ]
+            }
         ],
         "performer": "ABBA",
         "title": "Waterloo (ABBA)"
@@ -18001,13 +18814,14 @@ export const CHORDINFO = [
                 "Dm"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 813,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "117"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "We Are The Champions-"
@@ -18022,13 +18836,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "097"
+        "idx": 814,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "97"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "We Shall Overcome"
@@ -18045,13 +18860,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 815,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "152"
                 ]
-            ]
+            }
         ],
         "performer": "Louis Armstrong",
         "title": "What A Wonderful World (Louis Armstrong)"
@@ -18064,13 +18880,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 816,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "158"
                 ]
-            ]
+            }
         ],
         "performer": "4 Non Blondes",
         "title": "What\u2019s Going On (What\u2019s Up) (4 Non Blondes)"
@@ -18085,13 +18902,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
+        "idx": 817,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
                     "101"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "When The Saints Go Marching In"
@@ -18105,13 +18923,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "091"
+        "idx": 818,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "91"
                 ]
-            ]
+            }
         ],
         "performer": "Nirvana",
         "title": "Where Did You Sleep Last Night \u2013 My Girl (Nirvana)"
@@ -18130,13 +18949,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 819,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "146"
                 ]
-            ]
+            }
         ],
         "performer": "Your Name",
         "title": "Where Everybody Knows (Your Name) (Cheers -"
@@ -18152,13 +18972,14 @@ export const CHORDINFO = [
                 "D7"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "077"
+        "idx": 820,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "77"
                 ]
-            ]
+            }
         ],
         "performer": "Pete Seeger",
         "title": "Where Have All The Flowers Gone (Pete Seeger)"
@@ -18179,7 +19000,8 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [],
+        "idx": 821,
+        "pagerefs": [],
         "performer": "",
         "title": "While My Guitar Gently Weeps"
     },
@@ -18193,13 +19015,14 @@ export const CHORDINFO = [
                 "Hm"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "059"
+        "idx": 822,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "59"
                 ]
-            ]
+            }
         ],
         "performer": "Creedence Clearwater Revival",
         "title": "Who'll Stop The Rain (Creedence Clearwater Revival)"
@@ -18212,13 +19035,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
-                    "035"
+        "idx": 823,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
+                    "35"
                 ]
-            ]
+            }
         ],
         "performer": "The Troggs",
         "title": "Wild Thing (The Troggs)"
@@ -18233,13 +19057,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "059"
+        "idx": 824,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "59"
                 ]
-            ]
+            }
         ],
         "performer": "Scorpions",
         "title": "Wind Of Change (Scorpions)"
@@ -18257,13 +19082,14 @@ export const CHORDINFO = [
                 "D"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 825,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "116"
                 ]
-            ]
+            }
         ],
         "performer": "Mariah Carry - Badfinger",
         "title": "Without You (Mariah Carry - Badfinger)"
@@ -18279,13 +19105,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 826,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "170"
                 ]
-            ]
+            }
         ],
         "performer": "Eric Clapton",
         "title": "Wonderful Tonight (Eric Clapton)"
@@ -18302,13 +19129,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
-                    "031"
+        "idx": 827,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
+                    "31"
                 ]
-            ]
+            }
         ],
         "performer": "F.R.David",
         "title": "Words Don't Come Easy (F.R.David)"
@@ -18327,15 +19155,16 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 828,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "19",
                     "33",
                     "100"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Yellow Submarine (The Beatles)"
@@ -18352,14 +19181,15 @@ export const CHORDINFO = [
                 "G7"
             ]
         ],
-        "pages": [
-            [
-                "G",
-                [
+        "idx": 829,
+        "pagerefs": [
+            {
+                "book": "G",
+                "pages": [
                     "82",
                     "85"
                 ]
-            ]
+            }
         ],
         "performer": "The Beatles",
         "title": "Yesterday (The Beatles)"
@@ -18375,13 +19205,14 @@ export const CHORDINFO = [
                 "Am7"
             ]
         ],
-        "pages": [
-            [
-                "Cs3",
-                [
+        "idx": 830,
+        "pagerefs": [
+            {
+                "book": "Cs3",
+                "pages": [
                     "140"
                 ]
-            ]
+            }
         ],
         "performer": "v\u00e1jemsziej",
         "title": "YMCA (v\u00e1jemsziej)"
@@ -18400,13 +19231,14 @@ export const CHORDINFO = [
                 "H7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 831,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "140"
                 ]
-            ]
+            }
         ],
         "performer": "Cocker",
         "title": "You Are So Beautiful To Me (Cocker)"
@@ -18423,13 +19255,14 @@ export const CHORDINFO = [
                 "A7"
             ]
         ],
-        "pages": [
-            [
-                "Cs4",
-                [
+        "idx": 832,
+        "pagerefs": [
+            {
+                "book": "Cs4",
+                "pages": [
                     "163"
                 ]
-            ]
+            }
         ],
         "performer": "Shrek",
         "title": "You Belong To Me (Shrek)"
@@ -18442,13 +19275,14 @@ export const CHORDINFO = [
                 "G"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
-                    "059"
+        "idx": 833,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
+                    "59"
                 ]
-            ]
+            }
         ],
         "performer": "Neoton",
         "title": "Yo-yo (Neoton)"
@@ -18463,13 +19297,14 @@ export const CHORDINFO = [
                 "Em"
             ]
         ],
-        "pages": [
-            [
-                "Cs2",
-                [
-                    "006"
+        "idx": 834,
+        "pagerefs": [
+            {
+                "book": "Cs2",
+                "pages": [
+                    "6"
                 ]
-            ]
+            }
         ],
         "performer": "M\u00e1t\u00e9 P\u00e9ter",
         "title": "Zene n\u00e9lk\u00fcl mit \u00e9rek \u00e9n (M\u00e1t\u00e9 P\u00e9ter)"
@@ -18484,13 +19319,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "029"
+        "idx": 835,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "29"
                 ]
-            ]
+            }
         ],
         "performer": "\u00fcde m\u00e1moros ajakkal",
         "title": "Zengj\u00fck a dalt (\u00fcde m\u00e1moros ajakkal)"
@@ -18506,13 +19342,14 @@ export const CHORDINFO = [
                 "E7"
             ]
         ],
-        "pages": [
-            [
-                "Cs5",
-                [
+        "idx": 836,
+        "pagerefs": [
+            {
+                "book": "Cs5",
+                "pages": [
                     "142"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Z\u00f6ld az erd\u0151 z\u00f6ld a hegy is"
@@ -18527,13 +19364,14 @@ export const CHORDINFO = [
                 "E"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
+        "idx": 837,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
                     "106"
                 ]
-            ]
+            }
         ],
         "performer": "s\u00e9t\u00e1l egy mad\u00e1r",
         "title": "Z\u00f6ld erd\u0151ben, z\u00f6ld mez\u0151ben (s\u00e9t\u00e1l egy mad\u00e1r)"
@@ -18547,13 +19385,14 @@ export const CHORDINFO = [
                 "F"
             ]
         ],
-        "pages": [
-            [
-                "Cs1",
-                [
-                    "028"
+        "idx": 838,
+        "pagerefs": [
+            {
+                "book": "Cs1",
+                "pages": [
+                    "28"
                 ]
-            ]
+            }
         ],
         "performer": "",
         "title": "Z\u00fag a Volga"
