@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  node:
+    image: node:14.3.0
+    restart: always
+    ports:
+      - 3334:3000
+    volumes:
+      - .:/client
+    command: bash -c "sleep 99999d"
+    environment:
+      - NODE_ENV=development
