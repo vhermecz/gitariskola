@@ -1,7 +1,7 @@
 import urllib.request
 import xlrd3 as xlrd
 import json
-
+import re
 
 DATA_URL = "http://www.musztydobay.hu/osszescsalidalexcel.xls"
 
@@ -21,12 +21,32 @@ def extract_from_excel_blob(data):
         yield [cx.value for cx in sh.row(rx)]
 
 
+def extract_chords(text):
+    def splitter(texts, sep):
+        presult = map(lambda x: x.split(sep), texts)
+        return [item for sublist in presult for item in sublist]
+    def cleanse_chordlist(text):
+        text = re.split('-|\.', text)
+        text = map(str.strip, text)
+        text = map(str.lower, text)
+        text = map(str.capitalize, text)
+        text = list(filter(lambda x:x not in ['', 'Git'], text))
+        return text
+    text = [text.replace('–', '-').replace('…', '').upper()]
+    text = splitter(text, "V.")
+    text = splitter(text, "VAGY")
+    text = splitter(text, "//")
+    text = splitter(text, "GITISK")
+    text = [cleanse_chordlist(item) for item in text]
+    return text
+
+
 def convert_to_json_data(data):
     """Convert list of strings to json format"""
     if next(data) != ['Dal neve', 'Előadó', 'Könyv', 'Akkord', 'Akkord száma']:
         raise ValueError("Check input. Might be broken.")
     for title, performer, pages, chords, _ in data:
-        print(title)
+        chords = [i for i in extract_chords(chords) if i]
         yield dict(
             title=title,
             performer=performer,
