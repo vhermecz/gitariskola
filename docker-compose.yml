@@ -4,6 +4,7 @@ services:
   node:
     image: node:14.3.0
     restart: always
+    stdin_open: true
     ports:
       - 3334:3000
     volumes:
@@ -13,7 +14,7 @@ services:
       - NODE_ENV=development
   python:
     image: python:3.8.3
-    restart: always
+    restart: "no"
     volumes:
       - .:/client
     command: bash -c "cd client/scripts/data-importer && pip install -r requirements.txt && python main.py"
