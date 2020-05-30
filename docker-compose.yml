@@ -8,6 +8,6 @@ services:
       - 3334:3000
     volumes:
       - .:/client
-    command: bash -c "sleep 99999d"
+    command: bash -c "cd client && yarn install && yarn start"
     environment:
       - NODE_ENV=development
