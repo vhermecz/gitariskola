@@ -10,8 +10,10 @@ import {
     TextField,
     Paper
 } from "@material-ui/core";
+import { Autocomplete } from '@material-ui/lab';
 import {makeStyles} from "@material-ui/core/styles";
 import {CHORDINFO} from "../config/chordinfo";
+import lodash from "lodash";
 
 const useStyles = makeStyles(theme => ({
   content: {
@@ -51,16 +53,54 @@ function filterByText(songs, filterText) {
   )
 }
 
+function filterByBook(songs, booksFilter) {
+  if (!booksFilter.length) {
+    return songs;
+  }
+  return songs.filter(song =>
+    song.pagerefs.filter(pageref => booksFilter.includes(pageref.book)).length
+  )
+}
+
+function getUniqBooks(songs) {
+  const books = lodash.flatten(
+    songs.map(song =>
+      song.pagerefs.map(pageref =>
+        pageref.book
+  )))
+  const booksUniq = lodash.uniq(books);
+  booksUniq.sort();
+  return booksUniq;
+}
+
 export function SongList() {
   const classes = useStyles();
   const [textFilter, setTextFilter] = useState("");
-  const songs = filterByText(CHORDINFO, textFilter);
+  const [booksFilter, setBooksFilter] = useState([]);
+  const uniqBooks = getUniqBooks(CHORDINFO);
+  const songs = filterByBook(filterByText(CHORDINFO, textFilter), booksFilter);
   return (
     <div className={classes.content}>
       <TextField
         label="Előadó/cím"
         value={textFilter}
         onChange={(event) => setTextFilter(event.target.value)}/>
+      <Autocomplete
+        multiple
+        options={uniqBooks}
+        style={{ width: 200 }}
+        getOptionLabel={(option) => option}
+        value={booksFilter}
+        onChange={(event,value,c) => setBooksFilter(value)}
+        filterSelectedOptions
+        renderInput={(params) => (
+          <TextField
+            {...params}
+            variant="outlined"
+            label="Könyvek"
+          />
+        )}
+      />        
       <TableContainer component={Paper}>
         <Table size="small" aria-label="running">
           <TableHead>
