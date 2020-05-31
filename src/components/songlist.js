@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {
+    Box,
     Chip,
     TableContainer,
     Table,
@@ -19,6 +20,8 @@ const useStyles = makeStyles(theme => ({
   content: {
     minWidth: 650,
     maxWidth: 1200,
+    marginRight: "auto",
+    marginLeft: "auto",
   },
 }));
 
@@ -99,50 +102,66 @@ export function SongList() {
   const songs = filterByChords(filterByBook(filterByText(CHORDINFO, textFilter), booksFilter), chordsFilter);
   return (
     <div className={classes.content}>
-      <TextField
-        label="Előadó/cím"
-        value={textFilter}
-        onChange={(event) => setTextFilter(event.target.value)}/>
-      <Autocomplete
-        multiple
-        options={uniqBooks}
-        style={{ width: 200 }}
-        getOptionLabel={(option) => option}
-        value={booksFilter}
-        onChange={(event,value,c) => setBooksFilter(value)}
-        filterSelectedOptions
-        renderInput={(params) => (
+      <Box my={1}>
+        <Paper>
+          <Box p={1}>
+            Csalamádé dalkereső. A szűrők segítségével kereshetsz dalcímre, előadóra, könyvre vagy akkordokra. <a href="http://www.musztydobay.hu/osszesnota.html">[Forrás]</a>
+          </Box>
+        </Paper>
+      </Box>
+      <Box mb={1}>
+        <Paper>
           <TextField
-            {...params}
+            label="Előadó/cím"
+            size="small"
             variant="outlined"
-            label="Könyvek"
+            style={{ margin: 4 }}
+            value={textFilter}
+            onChange={(event) => setTextFilter(event.target.value)}/>
+          <Autocomplete
+            multiple
+            size="small"
+            options={uniqBooks}
+            style={{ width: 300, display: 'inline-flex', margin: 4 }}
+            getOptionLabel={(option) => option}
+            value={booksFilter}
+            onChange={(event,value,c) => setBooksFilter(value)}
+            filterSelectedOptions
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                variant="outlined"
+                label="Könyvek"
+              />
+            )}
           />
-        )}
-      />
-      <Autocomplete
-        multiple
-        options={uniqChords}
-        style={{ width: 200 }}
-        getOptionLabel={(option) => option}
-        value={chordsFilter}
-        onChange={(event,value,c) => setChordsFilter(value)}
-        filterSelectedOptions
-        renderInput={(params) => (
-          <TextField
-            {...params}
-            variant="outlined"
-            label="Akkordok"
+          <Autocomplete
+            multiple
+            size="small"
+            options={uniqChords}
+            style={{ width: 400, display: 'inline-flex', margin: 4 }}
+            getOptionLabel={(option) => option}
+            value={chordsFilter}
+            onChange={(event,value,c) => setChordsFilter(value)}
+            filterSelectedOptions
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                variant="outlined"
+                label="Akkordok"
+              />
+            )}
           />
-        )}
-      />      
+        </Paper>
+      </Box>
       <TableContainer component={Paper}>
         <Table size="small" aria-label="running">
           <TableHead>
             <TableRow>
-              <TableCell>Dal neve</TableCell>
-              <TableCell>Előadó</TableCell>
-              <TableCell>Könyv</TableCell>
-              <TableCell>Akkord</TableCell>
+              <TableCell><b>Dal neve</b></TableCell>
+              <TableCell><b>Előadó</b></TableCell>
+              <TableCell><b>Könyv</b></TableCell>
+              <TableCell><b>Akkord</b></TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -167,6 +186,13 @@ export function SongList() {
           </TableBody>
         </Table>
       </TableContainer>
+      <Box my={1}>
+        <Paper>
+          <Box p={1} style={{ textAlign: "right", fontSize: "x-small" }}>
+            Készítette: vhermecz, 2020
+          </Box>
+        </Paper>
+      </Box>
     </div>
   )
 }
