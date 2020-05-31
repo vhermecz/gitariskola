@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a64fab3258e2c992cf065a9efa2b1bf",
+    "revision": "621aca76943d9e5168f396db6d0b399c",
     "url": "/gitariskola/index.html"
   },
   {
-    "revision": "2e046cf746e5f56fa7fc",
+    "revision": "56c37eb250269678b693",
     "url": "/gitariskola/static/css/main.62249468.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitariskola/static/js/2.f67b966d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e046cf746e5f56fa7fc",
-    "url": "/gitariskola/static/js/main.fb909a74.chunk.js"
+    "revision": "56c37eb250269678b693",
+    "url": "/gitariskola/static/js/main.1dad5e54.chunk.js"
   },
   {
     "revision": "3768e8fad86827d91640",

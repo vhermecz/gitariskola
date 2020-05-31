@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gitariskola/static/css/main.62249468.chunk.css",
-    "main.js": "/gitariskola/static/js/main.fb909a74.chunk.js",
-    "main.js.map": "/gitariskola/static/js/main.fb909a74.chunk.js.map",
+    "main.js": "/gitariskola/static/js/main.1dad5e54.chunk.js",
+    "main.js.map": "/gitariskola/static/js/main.1dad5e54.chunk.js.map",
     "runtime-main.js": "/gitariskola/static/js/runtime-main.a2ad7990.js",
     "runtime-main.js.map": "/gitariskola/static/js/runtime-main.a2ad7990.js.map",
     "static/js/2.f67b966d.chunk.js": "/gitariskola/static/js/2.f67b966d.chunk.js",
     "static/js/2.f67b966d.chunk.js.map": "/gitariskola/static/js/2.f67b966d.chunk.js.map",
     "index.html": "/gitariskola/index.html",
-    "precache-manifest.7fc937e804c2e644a25b0d615d5c12b5.js": "/gitariskola/precache-manifest.7fc937e804c2e644a25b0d615d5c12b5.js",
+    "precache-manifest.b50b468fe73dbbdd690eac3292ce468b.js": "/gitariskola/precache-manifest.b50b468fe73dbbdd690eac3292ce468b.js",
     "service-worker.js": "/gitariskola/service-worker.js",
     "static/css/main.62249468.chunk.css.map": "/gitariskola/static/css/main.62249468.chunk.css.map",
     "static/js/2.f67b966d.chunk.js.LICENSE.txt": "/gitariskola/static/js/2.f67b966d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a2ad7990.js",
     "static/js/2.f67b966d.chunk.js",
     "static/css/main.62249468.chunk.css",
-    "static/js/main.fb909a74.chunk.js"
+    "static/js/main.1dad5e54.chunk.js"
   ]
 }
