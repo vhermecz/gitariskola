@@ -55,8 +55,8 @@ function filterByText(songs, filterText) {
   }
   const normalizedFilterText = filterText.toLowerCase();
   return songs.filter(song =>
-    (song.performer||"").toLowerCase().includes(filterText) ||
-    (song.title||"").toLowerCase().includes(filterText)
+    (song.performer||"").toLowerCase().includes(normalizedFilterText) ||
+    (song.title||"").toLowerCase().includes(normalizedFilterText)
   )
 }
 
