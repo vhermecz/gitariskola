@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gitariskola/precache-manifest.e7c7729c862b559528ce4b4d092abe9c.js"
+  "/gitariskola/precache-manifest.7fc937e804c2e644a25b0d615d5c12b5.js"
 );
 
 self.addEventListener('message', (event) => {
