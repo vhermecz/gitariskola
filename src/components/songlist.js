@@ -2,6 +2,10 @@ import React, {useEffect, useState} from 'react';
 import {
     Box,
     Chip,
+    FormControl,
+    InputLabel,
+    MenuItem,
+    Select,
     TableContainer,
     Table,
     TableRow,
@@ -76,13 +80,16 @@ function getUniqBooks(songs) {
   return booksUniq;
 }
 
-function filterByChords(songs, chordsFilter) {
+function filterByChords(songs, chordsFilter, chordFilterMode) {
   if (!chordsFilter.length) {
     return songs;
   }
-  return songs.filter(song =>
-    lodash.flattenDeep(song.chords).filter(chord => chordsFilter.includes(chord)).length == chordsFilter.length
-  )
+  return songs.filter(song => {
+    const songChords = lodash.flattenDeep(song.chords);
+    const common = songChords.filter(chord => chordsFilter.includes(chord))
+    const others = songChords.filter(chord => !chordsFilter.includes(chord))
+    return common.length === chordsFilter.length && others.length <= chordFilterMode;
+  });
 }
 
 function getUniqChords(songs) {
@@ -92,14 +99,39 @@ function getUniqChords(songs) {
   return chordsUniq;
 }
 
+const ANY_OTHER_CHORD = 1000;
+const CHORD_FILTER_MODES = [
+  {
+    label: "Más akkordok is",
+    limit: ANY_OTHER_CHORD,
+  },
+  {
+    label: "Csak ezek",
+    limit: 0,
+  },
+  {
+    label: "Max 1 másik",
+    limit: 1,
+  },
+  {
+    label: "Max 2 másik",
+    limit: 2,
+  },
+  {
+    label: "Max 3 másik",
+    limit: 3,
+  },
+]
+
 export function SongList() {
   const classes = useStyles();
   const [textFilter, setTextFilter] = useState("");
   const [booksFilter, setBooksFilter] = useState([]);
   const [chordsFilter, setChordsFilter] = useState([]);
+  const [chordFilterMode, setChordFilterMode] = useState(ANY_OTHER_CHORD);
   const uniqBooks = getUniqBooks(CHORDINFO);
   const uniqChords = getUniqChords(CHORDINFO);
-  const songs = filterByChords(filterByBook(filterByText(CHORDINFO, textFilter), booksFilter), chordsFilter);
+  const songs = filterByChords(filterByBook(filterByText(CHORDINFO, textFilter), booksFilter), chordsFilter, chordFilterMode);
   return (
     <div className={classes.content}>
       <Box my={1}>
@@ -152,6 +184,25 @@ export function SongList() {
               />
             )}
           />
+          <FormControl
+              variant="outlined"
+              style={{ width: 200, margin: 4 }}
+              margin="dense">
+            <InputLabel id="chord-mode-select-label">Akkord mód</InputLabel>
+            <Select
+              labelId="chord-mode-select-label"
+              id="chord-mode-select"
+              value={chordFilterMode}
+              onChange={(event) => setChordFilterMode(event.target.value)}
+              label="Akkord mód"
+            >
+              {
+                CHORD_FILTER_MODES.map(mode =>
+                  <MenuItem value={mode.limit}>{mode.label}</MenuItem>
+                )
+              }
+            </Select>
+          </FormControl>  
         </Paper>
       </Box>
       <TableContainer component={Paper}>
