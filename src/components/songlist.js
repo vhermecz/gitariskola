@@ -49,14 +49,26 @@ export function ChordChip({chord}) {
   )
 }
 
+/**
+ * Normalize text for search
+ * Converts to lowercase and removes accents
+ * @returns string
+ */
+function normalizeText(text) {
+  function stripAccents(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+  return stripAccents(text || '').toLowerCase();
+}
+
 function filterByText(songs, filterText) {
   if (!filterText) {
     return songs;
   }
-  const normalizedFilterText = filterText.toLowerCase();
+  const normalizedFilterText = normalizeText(filterText);
   return songs.filter(song =>
-    (song.performer||"").toLowerCase().includes(normalizedFilterText) ||
-    (song.title||"").toLowerCase().includes(normalizedFilterText)
+    normalizeText(song.performer).includes(normalizedFilterText) ||
+    normalizeText(song.title).includes(normalizedFilterText)
   )
 }
 
